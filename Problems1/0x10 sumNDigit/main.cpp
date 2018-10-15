@@ -2,9 +2,9 @@
 
 using namespace std;
 //sum all n-digit numbers
-int main()
+int main(int argc, char *argv[])
 {
-    long long n, a=1 sum=0;
+    long long n, a=1, sum=0;
     scanf("%lld",&n);
 
     for (int i=1; i<n; i++)
@@ -15,7 +15,7 @@ int main()
         sum+=i;
 
     printf("%lld",sum);
-    
+
 
     return 0;
 }
