@@ -8,14 +8,18 @@ savo simboliais arba nebelieka laisvu langelius
     Reik suzinoti laimetoja
 Input per tarpa pateikti devyni simboliai x:petriuko, o:joniuko,, -:tuscias
 Output isvesti laimetojo varda, lygiuju atveju isvesti "Lygiosios",
-o jeigu tokia partijos baigtis neimanoma, isvesti "Klaida". 
+o jeigu tokia partijos baigtis neimanoma, isvesti "Klaida".
 */
 
 int main (int argc, char *argv[]){
+  char gameTable[] ;
 
-  scanf();
+  for (int i=0,)
+  {
+    scanf("%c", gameTable[i]);
+  }
 
 
-  printf();
+  printf("%s",gameTable);
   return 0;
 }
