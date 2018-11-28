@@ -2,6 +2,7 @@
 #include <iostream>
 #include <fstream>
 #include <string>
+#include <sstream>
 
 using namespace std;
 
@@ -65,7 +66,7 @@ int main () {
 
   ifile.open("numbers.txt");
   cout<<"open input\n";
-
+  int NumeroHombre[100];
   // check for error
     if (ifile.fail()){
       cerr<<"errrFuck\n";
@@ -78,9 +79,18 @@ int main () {
 
         getline( ifile, lineFromFile );
         //process the line
+        istringstream ( lineFromFile ) >>NumeroHombre[counter]; // convert string to int
 
+        //NumeroHombre[counter]=lineFromFile;
+        counter++;
     }
+    counter -=2;
+    for (int i=counter; i >=0 ; i--)
+    cout<<i<<":"<<NumeroHombre[i]<<endl;
 
+    cout<<endl;
+
+  cout<<"elements amount:"<<sizeof(NumeroHombre)<<endl;
   cout<<"close input\n";
   ifile.close();
 
@@ -103,9 +113,13 @@ int main () {
 
   ofstream ofile; // output file
   ofile.open ("output.txt");
+  cout<<"openOut\n";
+
   ofile << "output open\n";
 
   ofile << "output close\n";
   ofile.close();
+  cout<<"closeOut\n";
+
   return 0;
 }
