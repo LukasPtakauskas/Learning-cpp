@@ -1,0 +1,9 @@
+fruit
+tomato
+kiwi
+banana
+apple
+apple
+pear
+plum
+bear
