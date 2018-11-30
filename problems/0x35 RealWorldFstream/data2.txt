@@ -1,0 +1,1094 @@
+Abacus
+Adventuring Gear
+2 gp
+2 lbs
+Utility
+Acid (vial)
+Adventuring Gear
+25 gp
+1 lb
+Combat, Damage, Utility
+Alchemist&#39;s Fire (flask)
+Adventuring Gear
+50 gp
+1 lb
+Combat, Consumable, Damage, Utility
+Alchemist&#39;s Supplies
+Tool
+50 gp
+8 lbs
+Utility
+Amulet
+Holy Symbol
+5 gp
+1 lb
+Utility
+Antitoxin
+Adventuring Gear
+50 gp
+--
+Healing, Utility
+Arrows
+Ammunition
+1 gp
+1 lb
+Combat, Damage
+Assassin&#39;s Blood (Ingested)
+Poison
+150 gp
+--
+Consumable, Damage
+Backpack
+Adventuring Gear
+2 gp
+5 lbs
+Container
+Bagpipes
+Tool
+30 gp
+6 lbs
+Instrument
+Ball Bearings (bag of 1,000)
+Adventuring Gear
+1 gp
+2 lbs
+Combat, Control, Utility
+Barrel
+Adventuring Gear
+2 gp
+70 lbs
+Container
+Battleaxe
+Martial Melee Weapon
+10 gp
+4 lbs
+Slashing
+Combat, Damage
+Bedroll
+Adventuring Gear
+1 gp
+7 lbs
+Utility
+Bell
+Adventuring Gear
+1 gp
+--
+Communication, Utility
+Bit and Bridle
+Adventuring Gear
+2 gp
+1 lb
+Utility
+Block and Tackle
+Adventuring Gear
+1 gp
+5 lbs
+Exploration, Movement, Utility
+Blowgun
+Martial Ranged Weapon
+10 gp
+1 lb
+Piercing
+Combat, Damage
+Blowgun Needles
+Ammunition
+1 gp
+1 lb
+Combat, Damage
+Bomb
+Adventuring Gear
+150 gp
+1 lb
+Combat, Damage
+Book
+Adventuring Gear
+25 gp
+5 lbs
+Social, Utility
+Bottle, Glass
+Adventuring Gear
+2 gp
+2 lbs
+Container
+Breastplate
+Medium Armor
+400 gp
+20 lbs
+AC 14
+Warding
+Brewer&#39;s Supplies
+Tool
+20 gp
+9 lbs
+Utility
+Bullets, Renaissance
+Ammunition
+3 gp
+2 lbs
+Combat, Damage
+Burglar&#39;s Pack
+Equipment Pack
+16 gp
+47 1/2 lbs
+Container, Exploration, Utility
+Burnt Othur Fumes (Inhaled)
+Poison
+500 gp
+--
+Consumable, Damage
+Calligrapher&#39;s Supplies
+Tool
+10 gp
+5 lbs
+Utility
+Caltrops (bag of 20)
+Adventuring Gear
+1 gp
+2 lbs
+Combat, Damage, Movement
+Camel
+Mount
+50 gp
+--
+Speed 50 ft., Carrying Capacity 480 lbs.
+Canoe
+Adventuring Gear
+50 gp
+--
+Utility
+Carpenter&#39;s Tools
+Tool
+8 gp
+6 lbs
+Utility
+Carriage
+Vehicle (Land)
+100 gp
+600 lbs
+Exploration, Movement, Utility
+Cart
+Vehicle (Land)
+15 gp
+200 lbs
+Exploration, Movement, Utility
+Cartographer&#39;s Tools
+Tool
+15 gp
+6 lbs
+Utility
+Case, Crossbow Bolt
+Adventuring Gear
+1 gp
+1 lb
+Container
+Case, Map or Scroll
+Adventuring Gear
+1 gp
+1 lb
+Container
+Chain (10 feet)
+Adventuring Gear
+5 gp
+10 lbs
+Utility
+Chain Mail
+Heavy Armor
+75 gp
+55 lbs
+AC 16
+Warding
+Chain Shirt
+Medium Armor
+50 gp
+20 lbs
+AC 13
+Warding
+Chariot
+Vehicle (Land)
+250 gp
+100 lbs
+Exploration, Movement, Utility
+Chest
+Adventuring Gear
+5 gp
+25 lbs
+Container
+Climber&#39;s Kit
+Adventuring Gear
+25 gp
+12 lbs
+Exploration, Movement, Utility
+Clothes, Costume
+Adventuring Gear
+5 gp
+4 lbs
+Deception, Outerwear, Social
+Clothes, Fine
+Adventuring Gear
+15 gp
+6 lbs
+Outerwear, Social
+Clothes, Traveler&#39;s
+Adventuring Gear
+2 gp
+4 lbs
+Outerwear, Social
+Cobbler&#39;s Tools
+Tool
+5 gp
+5 lbs
+Utility
+Component Pouch
+Adventuring Gear
+25 gp
+2 lbs
+Container, Utility
+Cook&#39;s Utensils
+Tool
+1 gp
+8 lbs
+Utility
+Crawler Mucus (Contact)
+Poison
+200 gp
+--
+Consumable, Damage, Debuff
+Crossbow Bolts
+Ammunition
+1 gp
+1 1/2 lb
+Combat, Damage
+Crossbow, Hand
+Martial Ranged Weapon
+75 gp
+3 lbs
+Piercing
+Combat, Damage
+Crossbow, Heavy
+Martial Ranged Weapon
+50 gp
+18 lbs
+Piercing
+Combat, Damage
+Crossbow, Light
+Simple Ranged Weapon
+25 gp
+5 lbs
+Piercing
+Combat, Damage
+Crowbar
+Adventuring Gear
+2 gp
+5 lbs
+Exploration, Utility
+Crystal
+Arcane Focus
+10 gp
+1 lb
+Utility
+Dagger
+Simple Melee Weapon
+2 gp
+1 lb
+Piercing
+Combat, Damage
+Diplomat&#39;s Pack
+Equipment Pack
+39 gp
+36 lbs
+Container, Exploration, Outerwear, Social, Utility
+Disguise Kit
+Tool
+25 gp
+3 lbs
+Deception, Utility
+Donkey (or Mule)
+Mount
+8 gp
+--
+Speed 40 ft., Carrying Capacity 420 lbs.
+Double-Bladed Scimitar
+Martial Melee Weapon
+100 gp
+6 lbs
+Slashing
+Combat, Damage
+Draft Horse
+Mount
+50 gp
+--
+Speed 40 ft., Carrying Capacity 540 lbs.
+Dragonchess Set
+Tool
+1 gp
+1/2 lb
+Social
+Drow Poison (Injury)
+Poison
+200 gp
+--
+Consumable, Damage, Debuff
+Drum
+Tool
+6 gp
+3 lbs
+Instrument
+Dulcimer
+Tool
+25 gp
+10 lbs
+Instrument
+Dungeoneer&#39;s Pack
+Equipment Pack
+12 gp
+61 1/2 lbs
+Container, Exploration, Utility
+Elephant
+Mount
+200 gp
+--
+Speed 40 ft., Carrying Capacity 1,320 lbs.
+Emblem
+Holy Symbol
+5 gp
+--
+Utility
+Entertainer&#39;s Pack
+Equipment Pack
+40 gp
+38 lbs
+Container, Deception, Exploration, Outerwear, Social, Utility
+Essence of Ether (Inhaled)
+Poison
+300 gp
+--
+Consumable, Damage, Debuff
+Explorer&#39;s Pack
+Equipment Pack
+10 gp
+59 lbs
+Container, Exploration, Utility
+Fishing Tackle
+Adventuring Gear
+1 gp
+4 lbs
+Social, Utility
+Flail
+Martial Melee Weapon
+10 gp
+2 lbs
+Bludgeoning
+Combat, Damage
+Flute
+Tool
+2 gp
+1 lb
+Instrument
+Forgery Kit
+Tool
+15 gp
+5 lbs
+Deception, Utility
+Galley
+Vehicle (Water)
+30000 gp
+--
+Speed 4 mph
+Glaive
+Martial Melee Weapon
+20 gp
+6 lbs
+Slashing
+Combat, Control, Damage
+Glassblower&#39;s Tools
+Tool
+30 gp
+5 lbs
+Utility
+Grappling Hook
+Adventuring Gear
+2 gp
+4 lbs
+Exploration, Utility
+Greataxe
+Martial Melee Weapon
+30 gp
+6 lbs
+Slashing
+Combat, Damage
+Greatsword
+Martial Melee Weapon
+50 gp
+6 lbs
+Slashing
+Combat, Damage
+Gunpowder, Keg
+Adventuring Gear
+250 gp
+20 lbs
+Combat, Damage
+Gunpowder, Powder Horn
+Adventuring Gear
+35 gp
+2 lbs
+Combat, Damage
+Halberd
+Martial Melee Weapon
+20 gp
+6 lbs
+Slashing
+Combat, Control, Damage
+Half Plate
+Medium Armor
+750 gp
+40 lbs
+AC 15
+Warding
+Hammer
+Adventuring Gear
+1 gp
+3 lbs
+Utility
+Hammer, Sledge
+Adventuring Gear
+2 gp
+10 lbs
+Utility
+Handaxe
+Simple Melee Weapon
+5 gp
+2 lbs
+Slashing
+Combat, Damage
+Healer&#39;s Kit
+Adventuring Gear
+5 gp
+3 lbs
+Combat, Healing
+Herbalism Kit
+Tool
+5 gp
+3 lbs
+Healing, Utility
+Hide
+Medium Armor
+10 gp
+12 lbs
+AC 12
+Warding
+Holy Water (flask)
+Adventuring Gear
+25 gp
+1 lb
+Combat, Damage, Utility
+Horn
+Tool
+3 gp
+2 lbs
+Instrument
+Hourglass
+Adventuring Gear
+25 gp
+1 lb
+Utility
+Hunting Trap
+Adventuring Gear
+5 gp
+25 lbs
+Damage, Utility
+Ink (1 ounce bottle)
+Adventuring Gear
+10 gp
+--
+Communication, Consumable, Social, Utility
+Insect Repellant-Salve
+Adventuring Gear
+1 gp
+--
+Utility
+Jeweler&#39;s Tools
+Tool
+25 gp
+2 lbs
+Utility
+Keelboat
+Vehicle (Water)
+3000 gp
+--
+Speed 1 mph
+Lance
+Martial Melee Weapon
+10 gp
+6 lbs
+Piercing
+Combat, Control, Damage
+Lantern, Bullseye
+Adventuring Gear
+10 gp
+2 lbs
+Exploration, Utility
+Lantern, Hooded
+Adventuring Gear
+5 gp
+2 lbs
+Exploration, Utility
+Leather
+Light Armor
+10 gp
+10 lbs
+AC 11
+Warding
+Leatherworker&#39;s Tools
+Tool
+5 gp
+5 lbs
+Utility
+Light Hammer
+Simple Melee Weapon
+2 gp
+2 lbs
+Bludgeoning
+Combat, Damage
+Lock
+Adventuring Gear
+10 gp
+1 lb
+Utility, Warding
+Longbow
+Martial Ranged Weapon
+50 gp
+2 lbs
+Piercing
+Combat, Damage
+Longship
+Vehicle (Water)
+10000 gp
+--
+Speed 3 mph
+Longsword
+Martial Melee Weapon
+15 gp
+3 lbs
+Slashing
+Combat, Damage
+Lute
+Tool
+35 gp
+2 lbs
+Instrument
+Lyre
+Tool
+30 gp
+2 lbs
+Instrument
+Mace
+Simple Melee Weapon
+5 gp
+4 lbs
+Bludgeoning
+Combat, Damage
+Magnifying Glass
+Adventuring Gear
+100 gp
+--
+Detection, Exploration, Utility
+Malice (Inhaled)
+Poison
+250 gp
+--
+Consumable, Damage, Debuff
+Manacles
+Adventuring Gear
+2 gp
+6 lbs
+Control, Utility
+Mason&#39;s Tools
+Tool
+10 gp
+8 lbs
+Utility
+Mastiff
+Mount
+25 gp
+--
+Speed 40 ft., Carrying Capacity 195 lbs.
+Maul
+Martial Melee Weapon
+10 gp
+10 lbs
+Bludgeoning
+Combat, Damage
+Midnight Tears (Ingested)
+Poison
+1500 gp
+--
+Consumable, Damage
+Mirror, Steel
+Adventuring Gear
+5 gp
+1/2 lb
+Social, Utility
+Monster Hunter&#39;s Pack
+Equipment Pack
+33 gp
+49 lbs
+Container, Control, Utility
+Morningstar
+Martial Melee Weapon
+15 gp
+4 lbs
+Piercing
+Combat, Damage
+Musket
+Firearms Ranged Weapon
+500 gp
+10 lbs
+Piercing
+Combat, Damage
+Navigator&#39;s Tools
+Tool
+25 gp
+2 lbs
+Exploration, Utility
+Net
+Martial Ranged Weapon
+1 gp
+3 lbs
+Bludgeoning
+Combat, Control
+Oil of Taggit (Contact)
+Poison
+400 gp
+--
+Consumable, Damage, Debuff
+Orb
+Arcane Focus
+20 gp
+3 lbs
+Utility
+Padded
+Light Armor
+5 gp
+8 lbs
+AC 11
+Warding
+Painter&#39;s Supplies
+Tool
+10 gp
+5 lbs
+Utility
+Pale Tincture (Ingested)
+Poison
+250 gp
+--
+Consumable, Damage, Debuff
+Pan Flute
+Tool
+12 gp
+2 lbs
+Instrument
+Perfume (vial)
+Adventuring Gear
+5 gp
+--
+Consumable, Social, Utility
+Pick, Miner&#39;s
+Adventuring Gear
+2 gp
+10 lbs
+Utility
+Pike
+Martial Melee Weapon
+5 gp
+18 lbs
+Piercing
+Combat, Control, Damage
+Pistol
+Firearms Ranged Weapon
+250 gp
+3 lbs
+Piercing
+Combat, Damage
+Plate
+Heavy Armor
+1500 gp
+65 lbs
+AC 18
+Warding
+Poison, Basic (vial)
+Poison
+100 gp
+--
+Combat, Consumable, Damage, Utility
+Poisoner&#39;s Kit
+Tool
+50 gp
+2 lbs
+Utility
+Pony
+Mount
+30 gp
+--
+Speed 40 ft., Carrying Capacity 225 lbs.
+Pot, Iron
+Adventuring Gear
+2 gp
+10 lbs
+Container
+Potion of Healing
+Potion
+50 gp
+1/2 lb
+Combat, Consumable, Healing
+Potter&#39;s Tools
+Tool
+10 gp
+3 lbs
+Utility
+Priest&#39;s Pack
+Equipment Pack
+19 gp
+24 lbs
+Container, Exploration, Outerwear, Social, Utility
+Purple Worm Poison (Injury)
+Poison
+2000 gp
+--
+Consumable, Damage, Debuff
+Quiver
+Adventuring Gear
+1 gp
+1 lb
+Container
+Rain Catcher
+Adventuring Gear
+1 gp
+5 lbs
+Utility
+Ram, Portable
+Adventuring Gear
+4 gp
+35 lbs
+Exploration, Utility
+Rapier
+Martial Melee Weapon
+25 gp
+2 lbs
+Piercing
+Combat, Damage
+Reliquary
+Holy Symbol
+5 gp
+2 lbs
+Utility
+Riding Horse
+Mount
+75 gp
+--
+Speed 60 ft., Carrying Capacity 480 lbs.
+Ring Mail
+Heavy Armor
+30 gp
+40 lbs
+AC 14
+Warding
+Robes
+Adventuring Gear
+1 gp
+4 lbs
+Outerwear, Utility
+Rod
+Arcane Focus
+10 gp
+2 lbs
+Utility
+Rope, Hempen (50 feet)
+Adventuring Gear
+1 gp
+10 lbs
+Exploration, Utility
+Rope, Silk (50 feet)
+Adventuring Gear
+10 gp
+5 lbs
+Exploration, Utility
+Rowboat
+Vehicle (Water)
+50 gp
+100 lbs
+Speed 1 1/2 mph
+Saddle, Exotic
+Adventuring Gear
+60 gp
+40 lbs
+Utility
+Saddle, Military
+Adventuring Gear
+20 gp
+30 lbs
+Utility
+Saddle, Pack
+Adventuring Gear
+5 gp
+15 lbs
+Utility
+Saddle, Riding
+Adventuring Gear
+10 gp
+25 lbs
+Utility
+Saddlebags
+Adventuring Gear
+4 gp
+8 lbs
+Container, Utility
+Sailing Ship
+Vehicle (Water)
+10000 gp
+--
+Speed 2 mph
+Scale Mail
+Medium Armor
+50 gp
+45 lbs
+AC 14
+Warding
+Scale, Merchant&#39;s
+Adventuring Gear
+5 gp
+3 lbs
+Social, Utility
+Scholar&#39;s Pack
+Equipment Pack
+40 gp
+10 lbs
+Container, Social, Utility
+Scimitar
+Martial Melee Weapon
+25 gp
+3 lbs
+Slashing
+Combat, Damage
+Serpent Venom (Injury)
+Poison
+200 gp
+--
+Consumable, Damage, Debuff
+Shawm
+Tool
+2 gp
+1 lb
+Instrument
+Shield
+Shield
+10 gp
+6 lbs
+AC 2
+Warding
+Shortbow
+Simple Ranged Weapon
+25 gp
+2 lbs
+Piercing
+Combat, Damage
+Shortsword
+Martial Melee Weapon
+10 gp
+2 lbs
+Piercing
+Combat, Damage
+Shovel
+Adventuring Gear
+2 gp
+5 lbs
+Utility
+Sickle
+Simple Melee Weapon
+1 gp
+2 lbs
+Slashing
+Combat, Damage
+Signet Ring
+Adventuring Gear
+5 gp
+--
+Communication, Social, Utility
+Sled
+Vehicle (Land)
+20 gp
+300 lbs
+Exploration, Movement, Utility
+Smith&#39;s Tools
+Tool
+20 gp
+8 lbs
+Utility
+Spear
+Simple Melee Weapon
+1 gp
+3 lbs
+Piercing
+Combat, Damage
+Spellbook
+Adventuring Gear
+50 gp
+3 lbs
+Utility
+Spiked Armor
+Medium Armor
+75 gp
+45 lbs
+AC 14
+Damage, Warding
+Spikes, Iron (10)
+Adventuring Gear
+1 gp
+5 lbs
+Utility
+Splint
+Heavy Armor
+200 gp
+60 lbs
+AC 17
+Warding
+Sprig of Mistletoe
+Druidic Focus
+1 gp
+--
+Utility
+Spyglass
+Adventuring Gear
+1000 gp
+1 lb
+Exploration, Social, Utility
+Staff
+Arcane Focus
+5 gp
+4 lbs
+Utility
+Studded Leather
+Light Armor
+45 gp
+13 lbs
+AC 12
+Warding
+Tent, Two-Person
+Adventuring Gear
+2 gp
+20 lbs
+Exploration, Social, Utility
+Thieves&#39; Tools
+Tool
+25 gp
+1 lb
+Exploration, Utility
+Three-Dragon Ante Set
+Tool
+1 gp
+--
+Social
+Tinker&#39;s Tools
+Tool
+50 gp
+10 lbs
+Utility
+Torpor (Ingested)
+Poison
+600 gp
+--
+Consumable, Damage, Debuff
+Totem
+Druidic Focus
+1 gp
+--
+Utility
+Trident
+Martial Melee Weapon
+5 gp
+4 lbs
+Piercing
+Combat, Damage
+Truth Serum (Ingested)
+Poison
+150 gp
+--
+Consumable, Debuff, Utility
+Vial
+Adventuring Gear
+1 gp
+--
+Container
+Viol
+Tool
+30 gp
+1 lb
+Instrument
+Wagon
+Vehicle (Land)
+35 gp
+400 lbs
+Exploration, Movement, Utility
+Wand
+Arcane Focus
+10 gp
+1 lb
+Utility
+War Pick
+Martial Melee Weapon
+5 gp
+2 lbs
+Piercing
+Combat, Damage
+Warhammer
+Martial Melee Weapon
+15 gp
+2 lbs
+Bludgeoning
+Combat, Damage
+Warhorse
+Mount
+400 gp
+--
+Speed 60 ft., Carry Capacity 540 lbs.
+Warship
+Vehicle (Water)
+25000 gp
+--
+2 1/2 mph
+Weaver&#39;s Tools
+Tool
+1 gp
+5 lbs
+Utility
+Whip
+Martial Melee Weapon
+2 gp
+3 lbs
+Slashing
+Combat, Control, Damage
+Woodcarver&#39;s Tools
+Tool
+1 gp
+5 lbs
+Utility
+Wooden Staff
+Druidic Focus
+5 gp
+4 lbs
+Utility
+Wyvern Poison (Injury)
+Poison
+1200 gp
+--
+Consumable, Damage, Debuff
+Yew Wand
+Druidic Focus
+10 gp
+1 lb
+Utility
+Yklwa
+Simple Melee Weapon
+1 gp
+2 lbs
+Piercing
+Combat, Damage

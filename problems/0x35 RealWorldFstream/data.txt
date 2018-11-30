@@ -1,0 +1,5207 @@
+Blacksmith/Armory
+Item Name
+[Armor]
+Light Armor
+Studded Leather
+Medium Armor
+Chain Shirt
+Scale Mail
+Breastplate
+Half Plate
+Heavy Armor
+Ring Mail
+Chain Mail
+Splint
+Plate
+Shield
+Shield
+[Weapons]
+Simple Melee Weapons
+Dagger
+Handaxe
+Javelin
+Light Hammer
+Mace
+Sickle
+Spear
+Martial Melee Weapons
+Battleaxe
+Flail
+Glaive
+Greataxe
+Greatsword
+Halberd
+Lance
+Longsword
+Maul
+Morningstar
+Pike
+Rapier
+Scimitar
+Shortsword
+Trident
+War Pick
+Warhammer
+[Adventuring Gear]
+Ball Bearings (bag of 1,000)
+Bell
+Block and Tackle
+Chain (10 feet)
+Crowbar
+Grappling Hook
+Hammer
+Hammer, Sledge
+Hunting Trap
+Lamp
+Lantern, Bullseye
+Lantern, Hooded
+Lock
+Manacles
+Mirror, Steel
+Hard Sell (daily) at 1000 gp (Cheap: 750 gp, Expensive: 1500)
+Selling Cap (daily) at 2000 gp (Cheap: 1500 gp, Expensive: 3000 gp)
+Cost
+(Normal) Cost
+(Cheap) Cost
+(Expensive)
+Limited
+Stock
+Rural
+Locale
+Urban
+Locale
+Premium
+Locale
+45 gp 33 gp 68 gp 50 gp
+50 gp
+400 gp
+750 gp 38 gp
+38 gp
+300 gp
+562 gp 75 gp
+75 gp
+600 gp
+1125 gp 30 gp
+75 gp
+200 gp
+1500 gp 22 gp
+56 gp
+150 gp
+1125 gp 45 gp
+113 gp
+300 gp
+2250 gp 10 gp 7 gp 15 gp X X X X
+2 gp
+5 gp
+5 gp
+2 gp
+5 gp
+1 gp
+1 gp 1 gp
+3 gp
+3 gp
+1 gp
+3 gp
+7 sp
+7 sp 3 gp
+8 gp
+8 gp
+3 gp
+8 gp
+2 gp
+2 gp X
+X X
+X X X X
+X
+X
+X
+X
+X
+X X
+X
+X
+X
+X
+X
+X
+10 gp
+10 gp
+20 gp
+30 gp
+50 gp
+20 gp
+10 gp
+15 gp
+10 gp
+15 gp
+5 gp
+25 gp
+25 gp
+10 gp
+5 gp
+5 gp
+15 gp 7 gp
+7 gp
+15 gp
+22 gp
+38 gp
+15 gp
+7 gp
+11 gp
+7 gp
+11 gp
+3 gp
+18 gp
+18 gp
+7 gp
+3 gp
+3 gp
+11 gp 15 gp
+15 gp
+30 gp
+45 gp
+75 gp
+30 gp
+15 gp
+22 gp
+15 gp
+22 gp
+8 gp
+38 gp
+38 gp
+15 gp
+8 gp
+8 gp
+22 gp X X X X
+X X
+X
+X
+X
+X
+X X X X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+1 gp
+1 gp
+1 gp
+5 gp
+2 gp
+2 gp
+1 gp
+2 gp
+5 gp
+5 sp
+10 gp
+5 gp
+10 gp
+2 gp
+5 gp 7 sp
+7 sp
+7 sp
+3 gp
+1 gp
+1 gp
+7 sp
+1 gp
+3 gp
+3 sp
+7 gp
+3 gp
+7 gp
+1 gp
+3 gp 2 gp
+2 gp
+2 gp
+8 gp
+3 gp
+3 gp
+2 gp
+3 gp
+8 gp
+8 sp
+15 gp
+8 gp
+15 gp
+3 gp
+8 gp
+X
+X X
+X X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X X
+X
+X
+X
+X X
+X
+X X
+X
+X
+X
+X
+X X
+X
+X X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Continued from "Blacksmith/Armory" section...
+Item Name
+Cost
+(Normal)
+Pick, Miner's
+2 gp
+Piton
+5 cp
+Pot, Iron
+2 gp
+Spikes, Iron
+1 gp
+Whetstone
+1 cp
+[Tools]
+Artisan's Tools
+Carpenter's Tools
+8 gp
+Mason's Tools
+10 gp
+Smith's Tools
+20 gp
+Tinker's Tools
+50 gp
+Musical Instrument
+Horn
+3 gp
+Cost
+(Cheap)
+1 gp
+3 cp
+1 gp
+7 sp
+1 cp Cost
+(Expensive)
+3 gp
+8 cp
+3 gp
+2 gp
+2 cp
+6 gp
+7 gp
+15 gp
+38 gp 12 gp
+15 gp
+30 gp
+75 gp
+2 gp 5 gp
+Cost
+(Normal) Cost
+(Cheap) Cost
+(Expensive)
+25 gp
+25 gp 18 gp
+18 gp 38 gp
+38 gp
+75 gp
+50 gp
+50 gp 56 gp
+38 gp
+38 gp 113 gp
+75 gp
+75 gp
+1 gp
+1 gp
+2 gp
+1 gp
+1 gp 7 sp
+7 sp
+1 gp
+7 sp
+7 sp 2 gp
+2 gp
+3 gp
+2 gp
+2 gp
+[Weapons]
+Simple Ranged Weapons
+Crossbow, Light
+Shortbow
+Martial Ranged Weapons
+Crossbow, Hand
+Crossbow, Heavy
+Longbow
+[Adventuring Gear]
+Ammunition
+Arrows (20)
+Crossbow Bolts (20)
+Bowstring (5)
+Case, Crossbow Bolt
+Quiver
+[Armor]
+Light Armor
+Leather
+Studded Leather
+Medium Armor
+Hide
+Shield
+Shield
+[Weapons]
+Simple Ranged Weapons
+Sling
+[Adventuring Gear]
+Waterskin
+[Tools]
+Artisan's Tools
+Cobbler's Tools
+Leatherworker's Tools
+Musical Instrument
+Bagpipes
+Drum
+X X
+X
+X
+X
+Urban
+Locale
+X
+X
+X
+X
+X Premium
+Locale
+X
+X
+X
+X
+X X
+X
+X
+X
+X
+X
+X
+Limited
+Stock Rural
+Locale Urban
+Locale Premium
+Locale
+X X
+X X
+X X
+X
+X X
+X X
+X
+X X
+X
+X
+X
+X
+X
+X
+X X
+X
+X
+X
+X X
+X
+X
+X
+X
+X
+X
+X
+Hard Sell (daily) at 500 gp (Cheap: 375 gp, Expensive: 750)
+Selling Cap (daily) at 1000 gp (Cheap: 750 gp, Expensive: 1500 gp)
+Leatherworker
+Item Name
+Rural
+Locale
+X
+X
+X
+Hard Sell (daily) at 500 gp (Cheap: 375 gp, Expensive: 750)
+Selling Cap (daily) at 1000 gp (Cheap: 750 gp, Expensive: 1500 gp)
+Fletcher/Bowyer
+Item Name
+Limited
+Stock Cost
+(Normal) Cost
+(Cheap) Cost
+(Expensive)
+Limited
+Stock Rural
+Locale Urban
+Locale Premium
+Locale
+10 gp
+45 gp 7 gp
+33 gp 15 gp
+68 gp X X
+X X
+X X
+X
+10 gp 7 gp 15 gp X X X X
+10 gp 7 gp 15 gp X X
+1 sp 7 cp 2 sp X X X
+2 sp 1 sp 3 sp X X X X
+5 gp
+5 gp 3 gp
+3 gp 8 gp
+8 gp X X
+X X
+X X
+X
+30 gp
+6 gp 22 gp
+4 gp 45 gp
+9 gp X X
+X
+Created by Reddit user /u/jrobharing, edited & added to by Reddit user /u/Inalisk. Additional content created by /u/Shinotama.Hard Sell (daily) at 375 gp (Cheap: 281 gp, Expensive: 500)
+Selling Cap (daily) at 750 gp (Cheap: 562 gp, Expensive: 1000 gp)
+Trade goods accepted.
+Temple/Faith Supplies
+Item Name
+[Adventuring Gear]
+Alms Box
+Bell
+Blanket
+Book, Scripture
+Candle
+Case, Map or Scroll
+Censer
+Chalk (1 piece)
+Flask
+Healer's Kit
+Holy Symbol
+Amulet
+Emblem
+Reliquary
+Holy Water (flask)
+Incense (1 block)
+Ink (1 ounce bottle)
+Ink Pen (Fountain)
+Lamp
+Lantern, Hooded
+Oil (flask)
+Paper (one sheet)
+Parchment (one sheet)
+Perfume (vial)
+Potion of Healing
+Rations (1 day)
+Torch
+Vial
+Waterskin
+[Tools]
+Artisan's Tools
+Calligrapher's Supplies
+Herbalism Kit
+Musical Instrument
+Flute
+Lyre
+Horn
+[Services]
+Spellcasting
+Cure Wounds (lvl 1)
+Gentle Repose (lvl 2)
+Lesser Restoration (lvl 2)
+Remove Curse (lvl 3)
+Revivify (lvl 3)
+Raise Dead (lvl 5)
+Cost
+(Normal) Cost
+(Cheap) Cost
+(Expensive)
+5 gp
+1 gp
+5 sp
+25 gp
+1 cp
+1 gp
+5 gp
+1 cp
+2 cp
+5 gp 3 gp
+7 sp
+3 sp
+18 gp
+1 cp
+7 sp
+3 gp
+1 cp
+1 cp
+3 gp 8 gp
+2 gp
+8 sp
+38 gp
+2 cp
+2 gp
+8 gp
+2 cp
+3 cp
+8 gp
+5 gp
+5 gp
+5 gp
+25 gp
+1 cp
+10 gp
+3 gp
+5 sp
+5 gp
+1 sp
+2 sp
+1 sp
+5 gp
+50 gp
+5 sp
+1 cp
+1 gp
+2 sp 3 gp
+3 gp
+3 gp
+18 gp
+1 cp
+7 gp
+2 gp
+3 sp
+3 sp
+7 cp
+1 sp
+7 cp
+3 gp
+38 gp
+3 sp
+1 cp
+7 sp
+1 sp 8 gp
+8 gp
+8 gp
+38 gp
+2 cp
+15 gp
+5 gp
+8 sp
+8 sp
+2 sp
+3 sp
+2 sp
+8 gp
+75 gp
+8 sp
+2 cp
+2 gp
+3 sp
+10 gp
+5 gp 7 gp
+3 gp 15 gp
+8 gp
+2 gp
+30 gp
+3 gp 1 gp
+22 gp
+2 gp 3 gp
+45 gp
+5 gp
+10 gp
+50 gp
+50 gp
+100 gp
+400 gp
+1000 gp 7 gp
+38 gp
+38 gp
+75 gp
+375 gp
+875 gp 15 gp
+75 gp
+75 gp
+150 gp
+450 gp
+1250 gp
+Spellcaster Availability
+Locale
+Limited
+Rural
+Urban
+Premium
+Limited
+Stock
+Rural
+Locale Urban
+Locale Premium
+Locale
+O O
+X
+X
+X
+X
+X
+O
+X
+X
+X O
+X
+X
+X
+X
+X
+O
+X
+X
+X
+X X
+X
+X
+X
+O
+X
+X
+X X X X
+X
+X
+X
+O
+X
+X
+X
+X
+X
+X
+X
+X X
+X
+X
+X O
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+O
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X X
+X
+X
+X
+X
+X
+O
+X O
+X
+O
+O
+O
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+An "O" instead of an "X" indicates only clergy and proven devout
+members of their associated religion may purchase these items
+Available Spellcasters
+1 Acolyte. No expendable components available, subtract costs of materials if provided. Roll d%; 1-15
+is a Commoner (either a pious merchant, or a charlatan posing as a healer) instead of an Acolyte; 80-
+100 is a Priest instead of an Acolyte, with additional hit dice and caster level equal to 1d4-1.
+1d4 Acolytes, and 1 Priest with additional hit dice and caster level equal to 1d4-1. Expendable
+components available at a 25% chance, subtract costs of materials if provided.
+2d8+3 Acolytes, and 1d2 Priest with additional hit dice and caster level equal to 1d6-1. Expendable
+components available at a 55% chance, subtract costs of materials if provided.
+3d10+2 Acolytes, and 1d4 Priests with additional hit dice and caster level equal to 1d6-1. Expendable
+components available at a 75% chance, subtract costs of materials if provided.
+Not all books will be for sale. Some rarer
+tomes, or those in private collections
+may be more than chart prices.
+Limited
+Rural
+Urban
+Premium
+Stock
+Locale
+Locale
+Locale
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Book Prices (Library or Otherwise)
+Item Name
+Common, Soft Bound
+Common, Hard Bound
+Uncommon, Soft Bound
+Uncommon, Hard Bound
+Rare, Soft Bound
+Rare, Hard Bound
+Cost
+(Normal)
+8 gp
+10 gp
+15 gp
+20 gp
+30 gp
+50 gp
+Cost
+(Cheap)
+6 gp
+7 gp
+11 gp
+14 sp
+22 gp
+38 gp
+Hard Sell (daily) at 375 gp (Cheap: 281 gp, Expensive: 500)
+Selling Cap (daily) at 750 gp (Cheap: 562 gp, Expensive: 1000 gp)
+Trade goods accepted.
+General Store
+Item Name
+[Adventuring Gear]
+Abacus
+Barrel
+Blanket
+Bottle, glass
+Bucket
+Candle
+Chest
+Clothes, Common
+Clothes, Fine
+Flask or Tankard
+Ink (1 ounce bottle)
+Ink Pen (Fountain)
+Journal, Soft Bound, 25 Sheets
+Jug or Pitcher
+Ladder (10-foot)
+Lantern, Hooded
+Lamp
+Lock
+Mess Kit
+Mirror, Steel
+Paper (one sheet)
+Parchment (one sheet)
+Pick, Miner's
+Pot, Iron
+Pouch
+Rope, Hempen (50 feet)
+Rope, Silk (50 feet)
+Sack
+Scale, Merchant's
+Shovel
+Signet Ring
+Soap
+Vial
+[Tools]
+Artisan's Tools
+Carpenter's Tools
+Cobbler's Tools
+Cook's Utensils
+Glassblower's Tools
+Leatherworker's Tools
+Mason's Tools
+Potter's Tools
+Smith's Tools
+Weaver's Tools
+Woodcarver's Tools
+Cost
+(Expensive)
+12 gp
+15 gp
+23 gp
+30 gp
+45 gp
+75 gp
+Cost
+(Normal) Cost
+(Cheap) Cost
+(Expensive)
+2 gp
+2 gp
+5 sp
+2 gp
+5 cp
+1 cp
+5 gp
+5 sp
+15 gp
+2 cp
+10 gp
+3 gp
+7 gp
+2 cp
+1 sp
+5 gp
+5 sp
+10 gp
+2 sp
+5 gp
+2 sp
+1 sp
+2 gp
+2 gp
+5 sp
+1 gp
+10 gp
+1 cp
+5 gp
+2 gp
+5 gp
+2 cp
+1 gp 1 gp
+1 gp
+3 sp
+1 gp
+3 cp
+1 cp
+3 gp
+3 sp
+11 gp
+1 cp
+7 gp
+2 gp
+5 gp
+1 cp
+7 cp
+3 gp
+3 sp
+7 gp
+1 sp
+3 gp
+1 sp
+7 cp
+1 gp
+1 gp
+3 sp
+7 sp
+7 gp
+1 cp
+3 gp
+1 gp
+3 gp
+1 cp
+7 sp 3 gp
+3 gp
+8 sp
+3 gp
+8 cp
+2 cp
+8 gp
+8 sp
+23 gp
+3 cp
+15 gp
+5 gp
+11 gp
+3 cp
+2 sp
+8 gp
+8 sp
+15 gp
+3 sp
+8 gp
+3 sp
+2 sp
+3 gp
+3 gp
+8 sp
+2 gp
+15 gp
+2 cp
+8 gp
+3 gp
+8 gp
+3 cp
+2 gp
+8 gp
+5 gp
+1 gp
+30 gp
+5 gp
+10 gp
+10 gp
+20 gp
+1 gp
+1 gp 6 gp
+3 gp
+7 sp
+22 gp
+3 gp
+7 gp
+7 gp
+15 gp
+7 sp
+7 sp 12 gp
+8 gp
+2 gp
+45 gp
+8 gp
+15 gp
+15 gp
+30 gp
+2 gp
+2 gp
+Limited
+Stock
+X
+X
+Rural
+Locale
+X
+X
+X
+X
+X
+X
+X
+X X
+X
+X X
+X
+X
+X
+X
+X
+X
+X X
+X
+X
+X
+X
+X X
+X
+X
+X
+X
+X
+Urban
+Locale Premium
+Locale
+X
+X
+X
+X
+X
+X
+X
+X X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X X
+X
+X
+X
+X X
+X
+X
+X
+X X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Created by Reddit user /u/jrobharing, edited & added to by Reddit user /u/Inalisk. Additional content created by /u/Shinotama.Hard Sell (daily) at 750 gp (Cheap: 562 gp, Expensive: 1125)
+Selling Cap (daily) at 1500 gp (Cheap: 1125 gp, Expensive: 2260 gp)
+Trade goods accepted.
+Cost
+Cost
+Limited
+Rural
+Urban
+Premium
+(Cheap)
+(Expensive)
+Stock
+Locale
+Locale
+Locale
+Adventuring Supplies
+Item Name
+[Armor]
+Light Armor
+Padded
+Leather
+Studded Leather
+Medium Armor
+Hide
+[Weapons]
+Simple Melee Weapons
+Club
+Dagger
+Greatclub
+Handaxe
+Light Hammer
+Quarterstaff
+Simple Ranged Weapons
+Crossbow, Light
+Dart
+Shortbow
+Sling
+Martial Melee Weapons
+Whip
+Martial Ranged Weapons
+Blowgun
+Crossbow, hand
+Crossbow, heavy
+Longbow
+[Adventuring Gear]
+Ammunition
+Arrows (20)
+Blowgun Needles (50)
+Crossbow Bolts (20)
+Sling Bullets (20)
+Backpack
+Bedroll
+Blanket
+Block and Tackle
+Bottle, glass
+Candle
+Case, Crossbow Bolt
+Case, Map or Scroll
+Chain (10 feet)
+Chest
+Climber's Kit
+Clothes, Traveler's
+Crowbar
+Flask or Tankard
+Grappling Hook
+Hammer
+Healer's Kit
+Hourglass
+Hunting Trap
+Ink (1 ounce bottle)
+Ink Pen (Fountain)
+Jug or Pitcher
+Ladder (10-foot)
+Lantern, Bullseye
+Lantern, Hooded
+Cost
+(Normal)
+5 gp
+10 gp
+45 gp 3 gp
+7 gp
+33 gp 8 gp
+15 gp
+68 gp
+X
+X X
+X
+X
+10 gp 7 gp 15 gp
+X X X
+1 sp
+2 gp
+2 sp
+5 gp
+2 gp
+2 sp 7 cp
+1 gp
+1 sp
+3 gp
+1 gp
+1 sp 2 sp
+3 gp
+3 sp
+8 gp
+3 gp
+3 sp
+X
+X
+X
+X
+X
+X X
+X
+X
+X
+X X
+25 gp
+5 cp
+25 gp
+1 sp 18 gp
+3 cp
+18 gp
+7 cp 38 gp
+8 cp
+38 gp
+2 sp
+X
+X
+X X
+X
+X
+X X
+X
+X
+2 gp 1 gp 3 gp X X X
+10 gp
+75 gp
+50 gp
+50 gp 7 gp
+56 gp
+38 gp
+38 gp 15 gp
+113 gp
+75 gp
+75 gp X X 1 gp
+1 gp
+1 gp
+4 cp
+2 gp
+1 gp
+5 sp
+1 gp
+2 gp
+1 cp
+1 gp
+1 gp
+5 gp
+5 gp
+25 gp
+2 gp
+2 gp
+2 cp
+2 gp
+1 gp
+5 gp
+25 gp
+5 gp
+10 gp
+3 gp
+2 cp
+1 sp
+10 gp
+5 gp 7 sp
+7 sp
+7 sp
+3 cp
+1 gp
+7 sp
+3 sp
+7 sp
+1 gp
+1 cp
+7 sp
+7 sp
+3 gp
+3 gp
+18 gp
+1 gp
+1 gp
+1 cp
+1 gp
+7 sp
+3 gp
+18 gp
+3 gp
+7 gp
+2 gp
+1 cp
+7 cp
+7 gp
+3 gp 2 gp
+2 gp
+2 gp
+6 cp
+3 gp
+2 gp
+8 sp
+2 gp
+3 gp
+2 cp
+2 gp
+2 gp
+8 gp
+8 gp
+38 gp
+3 gp
+3 gp
+3 cp
+3 gp
+2 gp
+8 gp
+38 gp
+8 gp
+15 gp
+5 gp
+3 cp
+2 sp
+15 gp
+8 gp
+X
+X
+X
+X
+X
+X X X X
+X
+X
+X X
+X X X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X X
+X
+X
+X
+X X
+X
+X
+X
+X X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X X
+X X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Continued from "Adventuring Supplies" section...
+Item Name
+Cost
+(Normal)
+Lock
+10 gp
+Mess Kit
+2 sp
+Mirror, Steel
+5 gp
+Paper (one sheet)
+2 sp
+Parchment (one sheet)
+1 sp
+Pick, Miner's
+2 gp
+Piton
+5 cp
+Pole (10-foot)
+5 cp
+Pot, Iron
+2 gp
+Pouch
+5 sp
+Quiver
+1 gp
+Rations (1 day)
+5 sp
+Rope, Hempen (50 feet)
+1 gp
+Rope, Silk (50 feet)
+10 gp
+Sack
+1 cp
+Shovel
+2 gp
+Signal Whistle
+5 cp
+Signet Ring
+5 gp
+Spyglass
+1000 gp
+Tent, Two-person
+2 gp
+Tinderbox
+5 sp
+Torch
+1 cp
+Vial
+1 gp
+Waterskin
+2 sp
+[Tools]
+Artisan's Tools
+Cartographer's Tools
+15 gp
+Jeweler's Tools
+25 gp
+Tinker's Tools
+50 gp
+Herbalism Kit
+5 gp
+Navigator's Tools
+25 gp
+Water-side Theme
+[Weapons]
+Simple Melee Weapons
+Spear
+Martial Ranged Weapons
+Net
+[Adventuring Gear]
+Fishing Tackle
+[Waterborne Vehicles]
+Rowboat
+[Trade Goods]
+1 lb. of Fishing Bait
+Magical Theme
+[Adventuring Gear]
+Arcane Focus
+Crystal
+Orb
+Rod
+Staff
+Wand
+Component Pouch
+Potion of Healing
+Spellbook
+Cost
+(Cheap)
+7 gp
+1 sp
+3 gp
+1 sp
+7 cp
+1 gp
+3 cp
+3 cp
+1 gp
+3 sp
+7 sp
+3 sp
+7 sp
+7 gp
+1 cp
+1 gp
+3 cp
+3 gp
+750 gp
+1 gp
+3 sp
+1 cp
+7 sp
+1 sp Cost
+(Expensive)
+15 gp
+3 sp
+8 gp
+3 sp
+2 sp
+3 gp
+8 cp
+8 cp
+3 gp
+8 sp
+2 gp
+8 sp
+2 gp
+15 gp
+2 cp
+3 gp
+8 cp
+8 gp
+1500 gp
+3 gp
+8 sp
+2 cp
+2 gp
+3 sp
+11 gp
+18 gp
+38 gp
+3 gp
+18 gp 23 gp
+38 gp
+75 gp
+8 gp
+38 gp
+Limited
+Stock
+Rural
+Locale
+Urban
+Locale
+X
+X
+X
+X
+X X
+X
+X
+X
+X
+X
+X
+X X
+X
+X X
+X
+X
+X
+X
+X
+X X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Premium
+Locale
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+(Can apply to either a General Store or an Adventuring Supplies Shop)
+1 gp 7 sp 2 gp
+1 gp 7 sp 2 gp
+1 gp 7 sp 2 gp
+50 gp 38 gp 75 gp
+5 cp 3 cp 8 cp
+X X X
+X X X X
+X X X X
+X X X
+X X X
+X
+(Can apply to either a General Store or an Adventuring Supplies Shop)
+10 gp
+20 gp
+10 gp
+5 gp
+10 gp
+25 gp
+50 gp
+50 gp
+7 gp
+15 gp
+7 gp
+3 gp
+7 gp
+18 gp
+38 gp
+38 gp
+15 gp
+30 gp
+15 gp
+8 gp
+15 gp
+38 gp
+75 gp
+75 gp
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Created by Reddit user /u/jrobharing, edited & added to by Reddit user /u/Inalisk. Additional content created by /u/Shinotama.Shady Dealer Theme
+Item Name
+[Adventuring Gear]
+Acid (vial)
+Antitoxin (vial)
+Caltrops (bag of 20)
+Clothes, Costume
+Manacles
+Oil (flask)
+Poison, Basic (vial)
+Ram, Portable
+Spikes, Iron (10)
+[Tools]
+Disguise Kit
+Forgery Kit
+Gaming Set
+Dice Set
+Playing Card Set
+Poisoner's Kit
+Thieves' Tools
+(Can apply to either a General Store or an Adventuring Supplies Shop)
+Cost
+(Normal) Cost
+(Cheap) Cost
+(Expensive)
+25 gp
+50 gp
+1 gp
+5 gp
+2 gp
+1 sp
+100 gp
+4 gp
+1 gp 18 gp
+38 gp
+7 sp
+3 gp
+1 gp
+7 cp
+75 gp
+3 gp
+7 sp 38 gp
+75 gp
+2 gp
+8 gp
+3 gp
+2 sp
+150 gp
+6 gp
+2 gp
+25 gp
+15 gp 18 gp
+11 gp 38 gp
+23 gp
+1 sp
+5 sp
+50 gp
+25 gp 7 cp
+3 sp
+38 gp
+18 gp 2 sp
+8 sp
+75 gp
+38 gp
+Art and Games Theme
+Item Name
+Cost
+(Normal)
+[Tools]
+Artisan's Tools
+Calligrapher's Supplies
+Glassblower's Tools
+Painter's Supplies
+Potter's Tools
+Weaver's Tools
+Woodcarver's Tools
+Disguise Kit
+Gaming Set
+Dice Set
+Dragonchess Set
+Playing Card Set
+Three-Dragon Ante Set
+Musical Instrument
+Bagpipes
+Drum
+Dulcimer
+Flute
+Lute
+Lyre
+Horn
+Pan Flute
+Shawn
+Viol
+[Weapons]
+[Adventuring Gear]
+Basket
+Cloak, Canvas
+Cloak, Leather
+Cloak, Leather, Lined
+Rural
+Locale Urban
+Locale Premium
+Locale
+X
+X X
+X X
+X
+X X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X X
+X X
+X
+X
+X
+X
+X X
+X
+X
+X X
+X
+X
+X
+Clothes, Common
+Clothes, Costume
+Clothes, Fine
+Clothes, Traveler's
+Component Pouch
+Pouch
+Robes
+Sack
+Tent, Two-person
+[Miscellaneous]
+Bone Needle (5)
+Steel Needle (1)
+Cotton Thread (30 feet)
+Leather Cord (15 feet)
+[Tools]
+Artisan's Tools
+Weaver's Tools
+Cost
+(Cheap)
+Cost
+(Expensive)
+10 gp
+30 gp
+10 gp
+10 gp
+1 gp
+1 gp
+25 gp 8 gp
+22 gp
+8 gp
+8 gp
+7 sp
+7 sp
+18 gp 15 gp
+45 gp
+15 gp
+15 gp
+2 gp
+2 gp
+38 gp
+1 sp
+1 gp
+5 sp
+1 gp 7 cp
+7 sp
+3 sp
+7 sp 2 sp
+2 gp
+8 sp
+2 gp
+30 gp
+6 gp
+25 gp
+2 gp
+35 gp
+30 gp
+3 gp
+12 gp
+2 gp
+30 gp 22 gp
+4 gp
+18 gp
+1 gp
+26 gp
+22 gp
+2 gp
+9 gp
+1 gp
+22 gp 45 gp
+9 gp
+38 gp
+3 gp
+53 gp
+45 gp
+5 gp
+18 gp
+3 gp
+45 gp
+Limited
+Stock
+Rural
+Locale
+Urban
+Locale
+X
+X
+X
+X
+X
+X X
+X
+X
+X
+X X
+X X
+X
+X
+X
+X
+X
+X
+X
+X
+Premium
+Locale
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Hard Sell (daily) at 375 gp (Cheap: 281 gp, Expensive: 500)
+Selling Cap (daily) at 750 gp (Cheap: 562 gp, Expensive: 1000 gp)
+Cost
+(Normal) Cost
+(Cheap) Cost
+(Expensive)
+4 sp
+7 sp
+2 gp
+4 gp 3 sp
+5 sp
+1 gp
+3 gp 6 sp
+11 sp
+3 gp
+6 gp
+Limited
+Stock Rural
+Locale Urban
+Locale Premium
+Locale
+X X
+X X
+X
+X
+X X
+X
+X
+X
+X
+X
+Cost
+(Normal)
+5 sp
+5 gp
+15 gp
+2 gp
+25 gp
+5 sp
+1 gp
+1 cp
+2 gp Cost
+(Cheap)
+3 sp
+3 gp
+11 gp
+1 gp
+18 gp
+3 sp
+7 sp
+1 cp
+1 gp Cost
+(Expensive)
+8 sp
+8 gp
+23 gp
+3 gp
+38 gp
+8 sp
+2 gp
+2 cp
+3 gp 3 cp
+1 sp
+5 sp
+1 gp 2 cp
+1 sp
+3 sp
+7 sp 5 cp
+2 sp
+8 sp
+2 gp X
+X
+1 gp 7 sp 2 gp X
+Transportation
+(Can apply to either a General Store or an Adventuring Supplies Shop)
+Tailor/Textiles
+Item Name
+Limited
+Stock
+Item Name
+Item Name
+[Mounts & Other Animals]
+Camel – 50 ft – 480 lbs
+Donkey/ Mule – 40 ft – 420 lbs
+Elephant – 40 ft – 1,320 lbs
+Horse, draft – 40 ft – 540 lbs
+Horse, riding – 60 ft – 480 lbs
+Mastiff – 40 ft – 195 lbs
+Pony – 40 ft – 225 lbs
+Warhorse – 60 ft – 540 lbs
+[Tack & Drawn Vehicles]
+Barding
+Bit & Bridle
+Carriage
+Cart
+Chariot
+Feed (per day)
+Saddle
+Exotic
+Military
+Pack
+Riding
+Saddlebags
+Sled
+Stabling (per day)
+Wagon
+[Waterborne Vehicles]
+Galley
+Keelboat
+Longship
+Rowboat
+Sailing Ship
+Warship
+Cost
+(Normal)
+Limited
+Stock
+X
+X
+X
+Rural
+Locale
+X Urban
+Locale
+X
+X
+X
+X X
+X
+X
+X Premium
+Locale
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X X
+X
+X X X
+X
+X
+X X
+X
+X
+X
+X X X
+Barding – Armor used to protect an animal. Cost is standard armor
+cost x4. See Blacksmithing. Prices located on pg. 157 of the PHB.
+Cost
+(Cheap)
+Cost
+(Expensive)
+Limited
+Stock
+50 gp
+8 gp
+200 gp
+50 gp
+75 gp
+25 gp
+30 gp
+400 gp 38 gp
+6 gp
+140 gp
+38 gp
+56 gp
+18 gp
+22 gp
+280 gp 75 gp
+12 gp
+300 gp
+75 gp
+113 gp
+38 gp
+45 gp
+600 gp X4
+2 gp
+100 gp
+15 gp
+250 gp
+5 cp X3
+1 gp
+70 gp
+11 gp
+175 gp
+3 cp X6
+3 gp
+150 gp
+23 gp
+375 gp
+8 cp 60 gp
+20 gp
+5 gp
+10 gp
+4 gp
+20 gp
+5 sp
+35 gp 48 gp
+15 gp
+3 gp
+7 gp
+3 gp
+15 gp
+3 gp
+28 gp 72 gp
+30 gp
+8 gp
+15 gp
+6 gp
+30 gp
+8 gp
+42 gp X
+X
+30,000 gp
+3,000 gp
+10,000 gp
+50 gp
+10,000 gp
+25,000 gp 21,000 gp
+2,100 gp
+7,000 gp
+38 gp
+7,000 gp
+17,500 gp 40,000 gp
+4,000 gp
+15,000 gp
+75 gp
+15,000 gp
+35,000 gp X
+X
+X
+X
+X
+X
+Rural
+Locale
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Urban
+Locale
+Premium
+Locale
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Created by Reddit user /u/jrobharing, edited & added to by Reddit user /u/Inalisk. Additional content created by /u/Shinotama.
+X
+X
+X
+X
+X
+XContinued from "Gem / Prospectors Shop" section...
+Hard Sell (daily) at 1000 gp (Cheap: 750 gp, Expensive: 1500)
+Selling Cap (daily) at 2000 gp (Cheap: 1500 gp, Expensive: 3000 gp)
+Cost
+Cost
+Limited
+Rural
+Urban
+Premium
+(Cheap)
+(Expensive)
+Stock
+Locale
+Locale
+Locale
+Jeweler/Stonecutter
+Item Name
+[Adventuring Gear]
+Amulet/Necklace, Exquisite
+Amulet/Necklace, Mundane
+Arcane Focus
+Crystal
+Orb
+Earrings, Exquisite
+Earrings, Mundane
+Jewelry (+ Gem value)
+Ring, Exquisite
+Ring, Mundane
+Signet Ring
+[Tools]
+Artisan's Tools
+Jeweler's Tools
+[Services]
+Gemstone Appraisal (3 gems)
+Resizing Jewelry
+Set Gem (<100 gp value)
+Set Gem (100-1K gp value)
+Set Gem (1K+ gp value)
+Stonecutting (+ value)
+[Genstones by Value]
+[10 GP Gemstones]
+Azurite (Deep blue)
+Banded agate (Brown / Blue)
+Blue quartz (Pale blue)
+Eye agate (Circles, gray / blue)
+Hematite (Opaque gray-black)
+Lapis lazuli (Blue with yellow)
+Malachite (Striated greens)
+Moss agate (Pale, moss marks)
+Obsidian (Opaque black)
+Rhodochrosite (Light pink)
+Tiger eye (Brown, gold center)
+Turquoise (Light blue-green)
+[50 GP Gemstones]
+Bloodstone (Gray with red)
+Carnelian (Opaque oranges)
+Chalcedony (Opaque white)
+Chrysoprase (Clear green)
+Citrine (Pale yellow-brown)
+Jasper (Blue, black, or brown)
+Moonstone (White + glow)
+Onyx (Black, white, or both)
+Quartz (Transparent range)
+Sardonyx (Red & white)
+Star rose quartz (White star)
+Zircon (Pale blue-green)
+[100 GP Gemstones]
+Amber (Watery gold)
+Amethyst (Deep purple)
+Chrysoberyl (Yellow-green)
+Coral (Opaque crimson)
+Garnet (Red, or violet)
+Jade (Green to white)
+Jet (Opaque deep black)
+Pearl (Lustrous white to pink)
+Cost
+(Normal)
+5 gp
+5 sp 3 gp
+3 sp 8 gp
+8 sp
+10 gp
+20 gp
+4 gp
+4 sp
+50 gp
+3 gp
+3 sp
+5 gp 7 gp
+15 gp
+3 gp
+3 sp
+38 gp
+2 gp
+2 sp
+3 gp 15 gp
+30 gp
+6 gp
+6 sp
+75 gp
+5 gp
+5 sp
+8 gp
+25 gp 18 gp 38 gp
+5 gp
+10 gp
+45 gp
+75 gp
+150 gp
+0.25 3 gp
+7 gp
+34 gp
+56 gp
+113 gp
+(n/a) 8 gp
+15 gp
+68 gp
+113 gp
+225 gp
+(na/)
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X X
+X
+X X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X X X
+X
+X
+X X
+X
+X
+X X
+X
+X
+X
+X
+X
+X
+10 gp
+10 gp
+10 gp
+10 gp
+10 gp
+10 gp
+10 gp
+10 gp
+10 gp
+10 gp
+10 gp
+10 gp 7 gp
+7 gp
+7 gp
+7 gp
+7 gp
+7 gp
+7 gp
+7 gp
+7 gp
+7 gp
+7 gp
+7 gp 15 gp
+15 gp
+15 gp
+15 gp
+15 gp
+15 gp
+15 gp
+15 gp
+15 gp
+15 gp
+15 gp
+15 gp X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+50 gp
+50 gp
+50 gp
+50 gp
+50 gp
+50 gp
+50 gp
+50 gp
+50 gp
+50 gp
+50 gp
+50 gp 38 gp
+38 gp
+38 gp
+38 gp
+38 gp
+38 gp
+38 gp
+38 gp
+38 gp
+38 gp
+38 gp
+38 gp 75 gp
+75 gp
+75 gp
+75 gp
+75 gp
+75 gp
+75 gp
+75 gp
+75 gp
+75 gp
+75 gp
+75 gp X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X X
+X
+X
+X
+X
+X X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+100 gp
+100 gp
+100 gp
+100 gp
+100 gp
+100 gp
+100 gp
+100 gp 75 gp
+75 gp
+75 gp
+75 gp
+75 gp
+75 gp
+75 gp
+75 gp 150 gp
+150 gp
+150 gp
+150 gp
+150 gp
+150 gp
+150 gp
+150 gp X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Item Name
+Spinel (Clear red to green)
+Tourmaline (Pale Red / Brown)
+[500 GP Gemstones]
+Alexandrite (Dark green)
+Aquamarine (Pale green-blue)
+Black pearl (Pure black)
+Blue spinel (Deep blue)
+Peridot (Rich olive green)
+Topaz (Golden yellow)
+[1000 GP Gemstones]
+Black Opal (Translucent green)
+Blue sapphire (Shades of blue)
+Emerald (Deep bright green)
+Fire opal (Firey red)
+Opal (Pale blue with green)
+Star ruby (Ruby with star)
+Star sapphire (Blue with star)
+Yellow Sapphire (Firey yellow)
+[5000 GP Gemstones]
+Black Sapphire (Lustrous black)
+Diamond (Transparent)
+Jacinth (Firey orange)
+Ruby (Shades of red)
+[Powdering of Gems]
+10 gp Gemstones
+50 gp Gemstones
+100 gp Gemstones
+500 gp Gemstones
+1000 gp Gemstones
+5000 gp Gemstones
+Cost
+(Normal)
+100 gp
+100 gp Cost
+(Cheap)
+75 gp
+75 gp Cost
+(Expensive)
+150 gp
+150 gp
+Limited
+Stock
+X
+X
+500 gp
+500 gp
+500 gp
+500 gp
+500 gp
+500 gp 375 gp
+375 gp
+375 gp
+375 gp
+375 gp
+375 gp 750 gp
+750 gp
+750 gp
+750 gp
+750 gp
+750 gp X
+X
+X
+X
+X
+X
+1000 gp
+1000 gp
+1000 gp
+1000 gp
+1000 gp
+1000 gp
+1000 gp
+1000 gp 750 gp
+750 gp
+750 gp
+750 gp
+750 gp
+750 gp
+750 gp
+750 gp 1500 gp
+1500 gp
+1500 gp
+1500 gp
+1500 gp
+1500 gp
+1500 gp
+1500 gp X
+X
+X
+X
+X
+X
+X
+X
+5000 gp
+5000 gp
+5000 gp
+5000 gp 3750 gp
+3750 gp
+3750 gp
+3750 gp 7500 gp
+7500 gp
+7500 gp
+7500 gp X
+X
+X
+X
+20 gp
+70 gp
+150 gp
+600 gp
+1500 gp
+6000 gp 15 gp
+52 gp
+113 gp
+450 gp
+1125 gp
+4500 gp 30 gp
+105 gp
+225 gp
+900 gp
+2250 gp
+9000 gp X
+X
+Rural
+Locale
+Urban
+Locale
+X
+X Premium
+Locale
+X
+X
+X
+X X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Jewelry with stones already set (including rings, amulets, earrings, etc.), are readily available based on the gemstone
+availability, at the DM's discretion. Suggestions for gemstone values and descriptions are available in the DMG on page 134.
+The “Powdering of Gems” service is an as needed task as most places aren’t interested in keeping smashed up gemstones on
+hand. Some bigger locations may keep a few of the less valuable gems already powdered and bagged, but most places will do
+it on an as needed basis. More often than not, the customer would need to provide the gem in addition to paying the fee
+listed in the chart.
+As with all locations, some services may have items not shown typically available on this chart or may offer services not
+typical for the area. These may come at a higher premium or be a service they only offer as a special reward for a job they
+need done as well.
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Important note ‘Gem Shop’ prices are based off a system of size vs. price. Gem prices are sold at full size (Default price in the
+DMG guide located on page 134) and as such the price by gem size can be altered to suit your needs. “I.e. Large = 1:1,
+Medium = 1:10, Small = 1:100, Tiny = 1:1000”.
+To use this in an example for spell casting ‘Chromatic Orb – 1st level, Evocation’ requires ‘A Diamond worth at least 50 gp’ so
+in this case a default 1:1 Large Diamond is worth 5000 gp and as such “5000/50=100” so in this case a 1:100 Small diamond is
+worth the required 50 gp to cast the spell. smaller items.
+Gemstone Availability
+Selection
+Poor
+Fair
+Moderate
+Wide
+Gemstones Available
+Less than ten 10gp gemstones, and a single 50gp gemstone
+Less than twenty 10gp gemstone, less than ten 50gp gemstones, and two 100gp gemstones
+Six of every basic 10gp gemstone, less than twenty 50gp gemstones, less than ten 100gp
+gemstones, three 500gp gemstones, and one gemstone of greater value than 500gp
+Twelve of every basic 10gp gemstone, Six of every basic 50gp gemstone, less than twenty 100gp
+gemstones, less than ten 500gp gemstones, four gemstones of greater value than 500gp
+d%
+1-40
+41-80
+81-90
+91-100
+Created by Reddit user /u/jrobharing, edited & added to by Reddit user /u/Inalisk. Additional content created by /u/Shinotama.Potion Shop
+Item Name
+Hard Sell (daily) at 500 gp (Cheap: 375 gp, Expensive: 750)
+Cost
+(Normal)
+[Adventuring Gear]
+Acid (vial)
+Alchemist's Fire (flask)
+Antitoxin (vial)
+Component Pouch
+Oil (flask)
+Perfume (vial)
+Poison, Basic (vial)
+Potion of Healing
+Vial
+[Alchemy Ingredients]
+Common
+Uncommon
+Rare
+Very Rare
+[Tools]
+Artisan's Tools
+Alchemist's Supplies
+Brewer's Supplies
+Cook's Utensils
+Poisoner's Kit
+[Magic Items]
+Potions
+Common
+Uncommon
+Rare
+Very Rare
+Legendary
+[Miscellaneous]
+Spell Components
+Premium
+Cost
+Cost
+Limited
+Rural
+Urban
+Cap (daily) at 1000
+gp (Cheap:
+750 gp, Locale
+Expensive: 1500
+Locale gp)
+(Cheap) Selling (Expensive)
+Stock
+Locale
+25 gp
+50 gp
+50 gp
+25 gp
+1 sp
+5 gp
+100 gp
+50 gp
+1 gp 18 gp
+38 gp
+38 gp
+18 gp
+7 cp
+3 gp
+75 gp
+38 gp
+7 sp 38 gp
+75 gp
+75 gp
+38 gp
+2 sp
+8 gp
+150 gp
+75 gp
+2 gp
+3 sp
+1 gp
+10 gp
+30 gp 2sp
+7 sp
+7 gp
+22 gp 5sp
+2 gp
+15 gp
+45 gp
+X
+X
+X
+X X
+X
+X
+X
+X
+X
+X
+X X
+X
+X X
+X
+X
+X
+X
+X
+X X
+X X
+X
+X
+X
+50 gp
+20 gp
+1 gp
+50 gp 38 gp
+15 gp
+7 sp
+38 gp 75 gp
+30 gp
+2 gp
+75 gp 50 gp
+250 gp
+2500 gp
+12500 gp
+62500 gp 38 gp
+175 gp
+1750 gp
+9375 gp
+46875 gp 75 gp
+375 gp
+3750 gp
+18750 gp
+93750 gp X
+X
+See Spell (x0.75) (x1.5) X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X X
+X
+X
+X
+X
+X X
+X
+X
+X X
+X
+X
+X
+X
+X X X
+X
+X
+Potion Availability
+Selection
+Poor
+Fair
+Moderate
+Wide
+Potion Names
+(C) Healing, Climbing, (U) Water Breathing, (R) Gaseous Form
+(U) Greater Healing, Resistance, (R) Elixir of Health, Diminution
+(U) Animal Friendship, Growth, Potion of Poison (disguised), (R) Heroism, Superior
+Healing, Frost/Stone Giant Strength, Clairvoyance
+(U) Oil of Slipperiness, Philter of Love, Fire Breath, (R) Oil of Etherealness, Fire Giant
+Strength, Invulnerability, Mind Reading,
+[Weapons]
+Simple Melee Weapons
+Quarterstaff
+[Adventuring Gear]
+Abacus
+Arcane Focus
+Crystal
+Orb
+Rod
+Staff
+Wand
+Bottle, glass
+Candle
+Case, Map or Scroll
+Cost
+(Normal) Cost
+(Cheap) Cost
+(Expensive)
+2 sp 1 sp 3 sp
+10 gp
+20 gp
+10 gp
+5 gp
+10 gp
+2 gp
+1 cp
+1 gp
+7 gp
+15 gp
+7 gp
+3 gp
+7 gp
+1 gp
+1 cp
+7 sp
+15 gp
+30 gp
+15 gp
+8 gp
+15 gp
+3 gp
+2 cp
+2 gp
+Selection
+Poor
+Fair
+Limited
+Stock Rural
+Locale Urban
+Locale Premium
+Locale X X X X X X Wide
+X
+X
+X
+X
+X
+X
+X
+X X
+X
+X
+X
+X
+X
+X
+X Full
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Cost
+(Cheap)
+18 gp Cost
+(Expensive)
+38 gp Limited
+Stock Rural
+Locale Urban
+Locale Premium
+Locale
+7 sp
+7 sp
+3 gp
+7 gp
+18 gp
+7 gp
+1 cp
+1 sp
+7 cp
+3 sp
+7 sp
+38 gp
+7 sp 2 gp
+2 gp
+8 gp
+15 gp
+38 gp
+15 gp
+3 cp
+3 sp
+2 sp
+8 sp
+2 gp
+75 gp
+2 gp X X X X
+X X
+X
+X
+X X
+X
+X
+X
+X
+X
+X
+X X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+38 gp
+7 gp 75 gp
+15 gp X
+X X
+X
+26 gp
+22 gp 53 gp
+45 gp X X
+X
+38 gp
+75 gp
+187 gp
+375 gp
+1875 gp
+3750 gp 75 gp
+150 gp
+375 gp
+750 gp
+3750 gp
+7500 gp X
+X
+X
+X X
+X
+X
+X X
+X
+X
+X
+X
+X
+75 gp 150 gp X
+X X X
+(x0.75) (x1.5) X X X
+X
+X
+X
+X
+X
+X
+X
+Spell Scroll/ Gem Availability
+81-100
+Hard Sell (daily) at 750 gp (Cheap: 562 gp, Expensive: 1125)
+Selling Cap (daily) at 1500 gp (Cheap: 1125 gp, Expensive: 2260 gp)
+Arcane Shop
+Item Name
+d%
+1-25
+26-50
+51-80
+Continued from "Arcane Shop" section...
+Item Name
+Cost
+(Normal)
+Component Pouch
+25 gp
+Druidic Focus
+Sprig of Mistletoe
+1 gp
+Totem
+1 gp
+Wooden Staff
+5 gp
+Yew Wand
+10 gp
+Hourglass
+25 gp
+Ink (1 ounce bottle)
+10 gp
+Ink Pen
+2 cp
+Paper (one sheet)
+2 sp
+Parchment (one sheet)
+1 sp
+Pouch
+5 sp
+Robes
+1 gp
+Spellbook
+50 gp
+Vial
+1 gp
+[Tools]
+Artisan's Tools
+Alchemist's Supplies
+50 gp
+Calligrapher's Supplies
+10 gp
+Musical Instrument
+Lute
+35 gp
+Lyre
+30 gp
+[Magic Items]
+Spell Scrolls/ Gems
+Common (Cantrip)
+50 gp
+Common (Level 1)
+100 gp
+Uncommon (Level 2)
+250 gp
+Uncommon (Level 3)
+500 gp
+Rare (Level 4)
+2500 gp
+Rare (Level 5)
+5000 gp
+[Services]
+Magic Appraisal (Identify)
+100 gp
+[Miscellaneous]
+Spell Components
+See Spell
+Moderate
+Offensive Spells
+(0) Shocking Grasp, (1) Burning Hands,
+(2) Melf's Acid Arrow, (3) Lightning Bolt,
+(4) Ice Storm, (5) Hold Monster
+(0) Fire Bolt, (1) Magic Missile, (2) Flaming
+Sphere, (3) Fire Ball, (4) Wall of Fire,
+(5) Cone of Cold (Inc. Poor availability list)
+(0) Acid Splash, Chill Touch, (1) Chromatic
+Orb, Sleep, (2) Hold Person, Scorching Ray,
+(3) Bestow Curse, Slow, (4) Phantasmal
+Killer, Confusion, (5) Cloudkill, Conjure
+Elemental (Inc. Poor/Fair availability list)
+(0) Friends, Minor Illusion, Poison Spray,
+(1) Color Spray, Ray of Sickness, Tasha's
+Hideous Laughter, (2) Blindness/Deafness,
+Cloud of Daggers, Ray of Enfeeblement,
+(3) Hypnotic Pattern, Sleet Storm, Vampiric
+Touch (4) Conjure Minor Elementals, Fire
+Shield, Otiluke's Resilient Sphere, (5)
+Dominate Person, Gaes, Planar Binding
+(Inc. Poor/Fair/Moderate availability list)
+(All Wizard Spells Level 1-5 and cantrips)
+Support Spells
+(0) Mending, (1) Alarm, (2) Magic Weapon,
+(3) Haste, (4) Mordenkainen's Faithful
+Hound, (5) Bigby's Hand
+(0) Mage Hand, (1) Tensor's Floating Disc,
+(2) Invisibility, (3) Fly, (4) Stoneskin,
+(5) Teleportation Circle (Inc. Poor
+availability list)
+(0) Light, Message, (1) Detect Magic, Jump,
+(2) Darkness, Levitate, (3) Dispel Magic,
+Water Breathing, (4) Arcane Eye, Greater
+Invisibility (5) Scrying, Telekenisis
+(Inc. Poor/Fair availability list)
+(0) Blade Ward, Dancing Lights,
+Prestidigitation, (1) Feather Fall, Identify,
+Mage Armor, (2) See Invisibility, Arcane
+Lock, Knock, (3) Leomund's Tiny Hut, Magic
+Circle, Tongues, (4) Dimension Door,
+Leomund's Secret Chest, Polymorph, (5)
+Legend Lore, Rary's Telepathic Bond, Wall
+of Stone (Inc. Poor/Fair availability list)
+(All Wizard Spells Level 1-5 and cantrips)
+d%
+1-25
+26-60
+61-80
+81-95
+96-100
+Created by Reddit user /u/jrobharing, edited & added to by Reddit user /u/Inalisk. Additional content created by /u/Shinotama.Common Meal & Inn Prices
+Item Name
+Cost
+(Normal)
+Cost
+(Cheap)
+Item Descriptions
+[color] Dragon Steak: The meat comes from the kind of
+dragon you choose. Flavor varies by type. (Ex. Red is
+spicy, Green is sour, etc.)
+Cost
+(Expensive)
+Limited
+Stock
+Rural
+Locale
+Urban
+Locale
+Premium
+Locale
+[Typical Breakfast Options]
+Commoner
+“Meat” Stick
+3 cp
+2 cp
+5 cp
+X
+X
+X
+Roasted Locusts
+3 cp
+2 cp
+5 cp
+X
+Cheese Omelet
+4 cp
+3 cp
+6 cp
+X
+X
+X
+Ham & Cheese on Rye
+5 cp
+3 cp
+8 cp
+X
+X
+X
+X
+Merchant
+Bacon & Egg Sandwich
+3 sp
+2 sp
+5 sp
+X
+X
+X
+Omelet “your’ Way
+3 sp
+2 sp
+5 sp
+X
+X
+Bloodhawk Eggs
+4 sp
+3 sp
+6 sp
+X
+X
+X
+X
+Bacon Stuffed Bread
+5 sp
+3 sp
+8 sp
+X
+X
+X
+Noble
+Frittata & Herbs
+1 gp
+7 sp
+2 gp
+X
+X
+X
+Bacon & Owlbear Eggs
+2 gp
+1 gp
+3 gp
+X
+X
+X
+Boar Ham Steak & Eggs
+2 gp
+1 gp
+3 gp
+X
+X
+X
+Truffle Omelet
+3 gp
+2 gp
+5 gp
+X
+X
+[Typical Lunch Options]
+Commoner
+Stockpot Stew/ Soup
+4 cp
+3 cp
+6 cp
+X
+X
+X
+“Adventurer’s” Steak
+4 cp
+3 cp
+6 cp
+X
+X
+X
+Minced Pork
+5 cp
+3 cp
+8 cp
+X
+X
+X
+X
+Roast Goat & Cheese
+6 cp
+4 cp
+9 cp
+X
+X
+X
+X
+Merchant
+Roast Lamb & Cheese
+4 sp
+3 sp
+6 sp
+X
+X
+X
+Boar Tenderloin
+5 sp
+3 sp
+8 sp
+X
+X
+X
+X
+Baked Goose Breast
+5 sp
+3 sp
+8 sp
+X
+X
+X
+X
+Grilled Salmon
+6 sp
+4 sp
+9 sp
+X
+X
+X
+Noble
+Rack of Lamb
+2 gp
+1 gp
+3 gp
+X
+X
+X
+Shellfish Platter
+3 gp
+2 gp
+5 gp
+X
+X
+X
+Dragon Turtle Soup
+4 gp
+3 gp
+6 gp
+X
+X
+X
+Roc Meat Portion
+5 gp
+3 gp
+8 gp
+X
+X
+[Typical Dinner Options]
+Commoner
+Stockpot Stew/ Soup
+4 cp
+3 cp
+6 cp
+X
+X
+X
+Grave of Small Birds
+5 cp
+3 cp
+8 cp
+X
+X
+X
+‘Tasha’s Hideous’ Stew
+5 cp
+3 cp
+8 cp
+X
+X
+X
+X
+Rabbit & Potato Plate
+6 cp
+4 cp
+9 cp
+X
+X
+X
+X
+Merchant
+Hunter’s Pie
+4 sp
+3 sp
+6 sp
+X
+X
+X
+Bloodhawk Breast
+5 sp
+3 sp
+8 sp
+X
+X
+X
+Crocodile Steak
+5 sp
+3 sp
+8 sp
+X
+X
+X
+X
+Roasted Bullywug Legs
+6 sp
+4 sp
+9 sp
+X
+X
+X
+Noble
+Buffalo Ribeye
+2 gp
+1 gp
+3 gp
+Sahuagin Caviar
+3 gp
+2 gp
+5 gp
+Owlbear Steak & Eggs
+4 gp
+3 gp
+6 gp
+X
+X
+X
+[color] Dragon Steak
+5 gp
+3 gp
+8 gp
+X
+X
+[Room Prices, Inns/ Taverns]
+Commoner (Poor 2 sp)
+5 cp
+3 cp
+8 cp
+X
+X
+X
+X
+Modest (1 gp)
+1 sp
+7 cp
+2 sp
+X
+X
+X
+X
+Merchant (Comfortable 2 gp)
+1 gp
+7 sp
+2 gp
+X
+X
+X
+X
+Wealthy (4 gp)
+2 gp
+1 gp
+3 gp
+X
+X
+X
+Noble (Aristocratic 10 gp+)
+4 gp
+3 gp
+6 gp
+X
+X
+General Notes
+- Meal & Inn prices are based on Chapter 5 of the PHB, “Lifestyle Expenses”. If you have a character who is a heavy drinker,
+maybe only one drink is included. I did not use the same page for Market Produce given the additions made.
+- All meals are served with a bread slice, a side & drink unless a side is already listed beside it.
+Market Produce/ Foods
+Item Name
+[Vendor/ Stand Items}
+Non-Alcoholic Drinks – Cup
+Coffee
+Goodberry “Wine”
+Fruit Juice (Varies)
+Milk (Local Variety)
+Fruits – A Piece
+In Season
+Out of Season
+Vegetables – Each/ Bushel
+Amaranth Leaf/ Greens
+Broccoli/ Cauliflower
+Cabbage/ Lettuce
+Fruit “Vegetable”
+Legumes
+Root Vegetable/ Tuber
+Grains – Per lb./ Flour – 1⁄2 lb.
+Amaranth
+Barley/ Rye
+Oats
+Quinoa
+Rice
+Wheat
+Baked Goods – Per Item
+Almond/ Sweet Roll (S)
+Seedcake
+Cheat/ Wheaten Loaf
+Cheese Danish
+Fruit Tart (S)
+Manchet Loaf
+Quince Bread Slice (S)
+Rye Loaf
+Protein – Per lb.
+Beef/ Buffalo/ Deer
+Boar/ Chicken/ Pork
+Dried/ Salted Meat
+Egg (for 6)
+Fish
+Insects/ Small Game
+Goat
+Lamb
+Shellfish (Oceanic)
+Cheeses – Per 1⁄2 lb.
+Brie
+Cheddar
+Cottage
+Parmesan
+Specialty
+Spices – Per 1⁄2 Ounce Ground
+Cinnamon
+Coriander
+Cumin
+Garlic
+Mustard
+Nutmeg
+Pepper
+Salt
+Specialty
+Value
+(Normal)
+Value
+(Low)
+Item Descriptions Cont.
+Adventurer’s Steak: The meat is of unknown origin, so no one
+can tell what the meat came from, but it’s assumed safe to eat.
+(S): Denotes a sweet item.
+Value
+(High)
+Limited
+Stock
+5 cp
+1 sp
+5 cp
+3 cp 3 cp
+7 cp
+3 cp
+2 cp 8 cp
+2 sp
+8 cp
+5 cp X
+X
+X
+1 cp
+5 cp 1 cp
+3 cp 2 cp
+8 cp X
+5 cp
+3 cp
+2 cp
+5 cp
+4 cp
+1 cp 3 cp
+2 cp
+1 cp
+3 cp
+3 cp
+1 cp 8 cp
+5 cp
+3 cp
+8 cp
+6 cp
+2 cp 2 gp
+2 cp
+5 sp
+1 gp
+5 cp
+1 sp 1 gp
+1 cp
+3 sp
+7 sp
+3 cp
+7 cp 3 gp
+3 cp
+8 sp
+2 gp
+8 cp
+2 sp X
+1 sp
+5 cp
+2 sp
+1 sp
+2 sp
+1 gp
+2 sp
+2 cp 7 cp
+3 cp
+1 sp
+7 cp
+1 sp
+7 sp
+1 sp
+1 cp 2 sp
+8 cp
+3 sp
+2 sp
+3 sp
+2 gp
+3 sp
+3 cp X
+3 sp
+8 cp
+5 sp
+3 cp
+6 sp
+4 cp
+1 sp
+1 gp
+2 gp 2 sp
+6 cp
+3 sp
+2 cp
+4 sp
+3 cp
+7 cp
+7 sp
+1 gp 5 sp
+12 cp
+8 sp
+5 cp
+9 sp
+6 cp
+2 sp
+2 gp
+3 gp 2 sp
+1 gp
+4 cp
+5 sp
+2 gp 1 sp
+7 sp
+3 cp
+3 sp
+1 gp 3 sp
+2 gp
+6 cp
+8 sp
+3 gp X
+1 sp
+3 cp
+7 cp
+2 cp
+1 sp
+8 cp
+5 cp
+6 cp
+2 sp 7 cp
+2 cp
+4 cp
+1 cp
+7 cp
+6 cp
+3 cp
+4 cp
+1 sp 2 sp
+5 cp
+13 cp
+3 cp
+2 sp
+12 cp
+8 cp
+9 cp
+3 sp X
+X
+X
+X
+X
+X
+X
+X
+X
+Rural
+Locale Urban
+Locale Premium
+Locale
+X
+X X X
+X
+X
+X X
+X
+X
+X
+X X X
+X
+X
+X
+X
+X
+X
+X X
+X
+X
+X
+X
+X X
+X
+X
+X
+X
+X
+X X
+X
+X
+X
+X
+X X
+X
+X
+X
+X X X X
+X
+X
+X X
+X
+X
+X
+X
+X
+X
+X X
+X
+X
+X
+X
+X
+X
+X
+X
+X X X X X
+X
+X X
+X
+X
+X
+X
+X
+X X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Created by Reddit user /u/jrobharing, edited & added to by Reddit user /u/Inalisk. Additional content created by /u/Shinotama.Creature Parts Values
+Item Name
+[Selling Value (Creature XP %)]
+CR: 0 – 6
+CR: 7 – 12
+CR: 13 – 18
+CR: 19 – 24
+CR: 25+
+Value
+(Normal)
+1%
+5%
+10%
+25%
+50%
+High End Clothing
+Item Name
+[Custom Clothing Items]
+Bandolier
+Belt
+“Better” Backpack
+Blouse
+Breeches
+Boots
+Bow Tie
+Cloak/ (Mantle, -1 gp)
+Coat
+Coin Purse
+Corset
+Dress
+Dress Pants
+Dress Shirt
+Dress Shoes
+Ghillies (Dance Shoes)
+Gloves
+Hat
+Jacket
+Jerkin/ (Tabard, +1 gp)
+Pouch
+Robe
+Sandals
+Scarf
+Skirt/ (Kilt +1 gp)
+Swimwear
+Tie
+Tunic
+Undergarments
+Vests
+[Extras]
+Closure Devices (Options)
+Buckles
+Snaps
+Embroidery (per foot)
+Linen Cloth Construction
+Lining (Material Options)
+Fur
+Leather (Basic)
+Leather (Specialty)
+Silk
+Misc. (At vendor’s Discretion)
+Pockets (flaps +2 sp/ pocket)
+Value
+(Low)
+Special Materials, Leather Armor Pieces
+Value
+(High)
+Limited
+Stock
+Rural
+Locale
+Urban
+Locale
+Premium
+Locale
+1%
+1.5%
+3%
+8%
+7%
+15%
+18%
+38%
+38%
+75%
+Cost below is based on fine fabric prices for “Fine Clothes” option. Unless
+PCs provide material, add the parts value from the chart above x2 for item
+cost based on creature CR. If they provide material, add the sell value to
+the total. These custom items do not improve/ hinder AC.
+Any item that typically has a lining has a cloth lining as part of the price.
+Cost
+(Normal) Cost
+(Cheap) Cost
+(Expensive)
+8 gp
+2 gp
+4 gp
+1 gp
+1 gp
+4 gp
+5 sp
+4 gp
+5 gp
+1 gp
+3 gp
+7 gp
+2 gp
+1 gp
+3 gp
+2 gp
+1 gp
+2 gp
+4 gp
+2 gp
+1 gp
+5 gp
+3 gp
+5 sp
+3 gp
+1 gp
+5 sp
+5 sp
+5 sp
+3 gp 6 gp
+1 gp
+3 gp
+7 sp
+7 sp
+3 gp
+3 sp
+3 gp
+3 gp
+7 sp
+2 gp
+4 gp
+1 gp
+7 sp
+2 gp
+1 gp
+7 sp
+1 gp
+3 gp
+1 gp
+7 sp
+3 gp
+2 gp
+3 sp
+2 gp
+7 sp
+3 sp
+3 sp
+3 sp
+2 gp 12 gp
+3 gp
+6 gp
+2 gp
+2 gp
+6 gp
+8 sp
+6 gp
+8 gp
+2 gp
+5 gp
+13 gp
+3 gp
+2 gp
+5 gp
+3 gp
+2 gp
+3 gp
+6 gp
+3 gp
+2 gp
+8 gp
+5 gp
+8 sp
+5 gp
+2 gp
+8 sp
+8 sp
+8 sp
+5 gp
+1 sp
+5 sp
+2 gp
++1 gp 7 cp
+3 sp
+1 gp
++7 sp 3 gp
+4 gp
++CR% N.
+3 gp 1 gp
+Limited
+Stock
+Rural
+Locale
+Urban
+Locale Premium
+Locale
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+2 sp
+8 sp
+3 gp
++2 gp X
+X
+X
+X X
+X
+X
+X X
+X
+X
+X
+2 gp
+3 sp
++CR% L.
+2 gp 5 gp
+6 gp
++CR% H.
+5 gp X
+X
+X
+X X
+X
+X
+X X
+X
+X
+X
+7 sp 2 gp X X X
+Item Name
+[Custom Armor Parts]
+Bracers
+Breastplate
+Boots
+Cloak/ (Mantle, -1 gp)
+Cuisse (Thigh Armor)
+Full Arm Armor (Pair)
+Full Leg Armor (Pair)
+Gauntlets
+Gloves
+Gorget (Neck)
+Greaves (Lower Leg)
+Harness (Chest & Back), Extra
+Helmet
+Pauldrons (Shoulders)
+Sabatons (Feet)
+[Custom Accessories]
+Buckler (1 Unit)
+Quiver (1 Unit)
+Sheathe (See Unit Note)
+Cost
+(Normal) Cost
+(Cheap) Cost
+(Expensive)
+5 sp
+3 gp
+1 gp
+6 gp
+1 gp
+1 gp
+2 gp
+1 gp
+5 sp
+5 sp
+1 gp
+7 gp
+2 gp
+1 gp
+5 sp 3 sp
+2 gp
+3 gp
+4 gp
+7 sp
+7 sp
+1 gp
+7 sp
+3 sp
+3 sp
+7 sp
+4 gp
+1 gp
+7 sp
+3 sp 8 sp
+5 gp
+6 gp
+9 gp
+2 gp
+2 gp
+3 gp
+2 gp
+8 sp
+8 sp
+2 gp
+13 gp
+3 gp
+2 gp
+8 sp
+8 gp
+1 gp
+8 sp 6 gp
+7 sp
+6 sp
+Limited
+Stock
+Rural
+Locale
+For other armors item
+prices, divide the full price
+by 10 (leather armor price)
+and multiply parts by that.
+Urban
+Locale
+Premium
+Locale
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+12 gp
+X
+X
+X
+X
+2 gp
+X
+X
+X
+X
+12 sp
+X
+X
+X
+X
+This material list comes from the City and Wild “Pay
+What You Want” (not mine) addition on DMsguild.
+Premium Locale “X” denotes Very Rare Material.
+Cost
+Limited
+Rural
+Urban
+Premium
+(Expensive)
+Stock
+Locale
+Locale
+Locale
+Special Crafting Materials
+Item Name
+[Name] (Per unit Price)
+Adamantite
+Aerocrystal
+Asmoroch Wood
+Beast Feathers (CR Values)
+Bone (CR Values)
+Chitin (CR Values)
+Cold Iron
+Coral
+Creature Hide (CR Values)
+Creature Scales (CR Values)
+Darksteel
+Darkwood
+Dwarvenstone
+Eternal Ice
+Ignum
+Infernal Leather
+Infernal Steel
+Leafweave
+Mithril
+Obsidian
+Orichalum
+Plague Wood
+Shadowsilk (CR Values)
+Shadowfell Linen
+Spiritual Wood
+Stellar Iron
+Cost
+(Normal) Cost
+(Cheap)
+200 gp
+400 gp
+400 gp
+CR% N.
+CR% N.
+CR% N.
+100 gp
+100 gp
+CR% N.
+CR% N.
+200 gp
+100 gp
+400 gp
+400 gp
+400 gp
+800 gp
+800 gp
+100 gp
+200 gp
+200 gp
+400 gp
+200 gp
+CR% N.
+800 gp
+200 gp
+800 gp 100 gp
+300 gp
+300 gp
+CR% L.
+CR% L.
+CR% L.
+60 gp
+60 gp
+CR% L.
+CR% L.
+100 gp
+60 gp
+300 gp
+300 gp
+300 gp
+600 gp
+600 gp
+60 gp
+100 gp
+100 gp
+300 gp
+100 gp
+CR% L.
+600 gp
+100 gp
+600 gp
+300 gp
+600 gp
+600 gp
+CR% H.
+CR% H.
+CR% H.
+200 gp
+200 gp
+CR% H.
+CR% H.
+300 gp
+300 gp
+600 gp
+600 gp
+600 gp
+1200 gp
+1200 gp
+200 gp
+300 gp
+300 gp
+600 gp
+300 gp
+CR% H.
+1200 gp
+300 gp
+1200 gp
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Availability: Weapons and Armor Sets made of the above list of materials will only be found in Premium Locales. Individual
+item availability is up to you.
+Pricing (Full Sets & Individual Items): Take the item cost and add the total units cost to it to get the custom item price.
+Unit uses/how much you need
+1 Unit: 2 Daggers, 1 Short Sword or Short Bow, etc. 2 Units: Small Size Armor, Long Sword or Long Bow, etc.
+3 Units: Medium Size Armor, Great Sword, etc. 4 Units: Large Size Armor, Warhammer, etc.
+Created by Reddit user /u/jrobharing, edited & added to by Reddit user /u/Inalisk. Additional content created by /u/Shinotama.Original PDF containing Tattoo Information from
+GMBinder (not mine).
+If the subject provides the ink, 10 – 30% of the ink cost
+will be added for the tattooist using their equipment.
+Tattoo Shop
+Item Name
+[Specialty Inks, Price per Size]
+Beastial Ink
+Small
+Medium
+Large
+Detection Ink (Colors Vary)
+Small
+Medium
+Large
+Elemental Ink (Choice Varies)
+Small
+Medium
+Large
+Glamor Ink (Choice Varies)
+Small
+Medium
+Large
+Glow Ink (Choice Varies)
+Small
+Medium
+Large
+Metallic-Ink (Basic Metals)
+Small
+Medium
+Large
+Mood Ink (Single Color)
+Small
+Medium
+Large
+Prismatic Ink (Single Color)
+Small
+Medium
+Large
+Shifting Ink (GM Choice)
+Small
+Medium
+Large
+Temporary Ink (Black Only)
+Small
+Medium
+Large
+3-D Ink (Colors Vary)
+Small
+Medium
+Large
+[1 oz Bottles of Basic Colors]
+Any Color
+[Miscellaneous]
+Full Ink Set
+Needle Set
+Medical Supplies
+Sketchbook
+[Tools]
+Artisans Tools
+Tattooist’s Tools
+Cost
+(Normal)
+Cost
+(Cheap)
+Cost
+(Expensive)
+Limited
+Stock
+Rural
+Locale
+X
+Urban
+Locale
+Premium
+Locale
+125 gp
+250 gp
+500 gp 163 gp
+175 gp
+375 gp 190 gp
+375 gp
+750 gp X
+X
+X X
+X X
+X
+X
+1,000 gp
+2,000 gp
+4,000 gp 700 gp
+1,400 gp
+2,800 gp 1,500 gp
+3,000 gp
+6,000 gp X
+X
+X X
+X X
+X
+X
+150 gp
+300 gp
+600 gp 105 gp
+210 gp
+420 gp 225 gp
+450 gp
+900 gp X
+X
+X X 100 gp
+200 gp
+400 gp 70 gp
+140 gp
+2800 gp 150 gp
+300 gp
+600 gp X
+X
+X X 100 gp
+200 gp
+400 gp 70 gp
+140 gp
+280 gp 150 gp
+300 gp
+600 gp X
+X
+X X 150 gp
+300 gp
+600 gp 105 gp
+210 gp
+420 gp 225 gp
+450 gp
+900 gp X
+X
+X X X
+X X
+X
+X
+100 gp
+200 gp
+400 gp 70 gp
+140 gp
+280 gp 150 gp
+300 gp
+600 gp X
+X
+X X
+X X
+X X
+X
+X
+150 gp
+300 gp
+600 gp 105 gp
+210 gp
+420 gp 225 gp
+450 gp
+900 gp X
+X
+X X
+X X
+X X
+X
+X
+5,000 gp
+10,000 gp
+20,000 gp 3,500 gp
+7,000 gp
+14,000 gp 7,500 gp
+15,000 gp
+30,000 gp X
+X
+X 50 gp
+100 GP
+200 gp 35 gp
+70 GP
+140 gp 75 gp
+150 gp
+300 gp X
+X
+X 350 gp
+700 gp
+1,400 gp 245 gp
+490 gp
+980 gp 525 gp
+1,050 gp
+2,100 gp X
+X
+X 15 gp 10 gp 23 gp X 200 gp
+5 gp
+30 gp
+25 gp 140 gp
+3 gp
+22 gp
+18 gp 300 gp
+8 gp
+45 gp
+38 gp X
+X
+X 70 gp 49 gp 105 gp X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X X
+X
+X
+X
+X X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Tattoo prices don’t include the price of ink
+which is shown in the table to the left.
+Tattoo Availability
+Item Name
+[Tattoo + Complexity]
+All Seeing Eye
+Artisan’s Hands
+Eye of Darkvision
+Eye of Truesight
+Eye of the Seer
+Elemental Fist Tattoo(s)
+Fortress Tattoo
+Mark of the Anchor
+Mark of the Marksman
+Mark of Melee
+Mark of the Death Walker
+Mark of the Driftglobe
+Mark of the Dryad
+Mark of the Elemental
+Mark of Elvenkind
+Mark of the Flock
+Mark of the Ghast
+Mark of the Healer
+Mark of the Hummingbird
+Mark of the Kraken
+Mark of the Ox
+Mark of the Pack master
+Mark of the Pit Fiend
+Mark of the Snake Charmer
+Mark of the Soulmates
+Mark of the Spider
+Mark of the Spirit master
+Mark of the Tarrasque
+Mark of the Telepath
+Mark of the Weapon master
+Maw of the Dragon
+Owner’s Mark
+Scar of Bravery
+Slave’s Mark
+Spirit of the [Animal]
+Spirit Walker’s Sigil
+Tattoo of Leaping
+Tattoo of Luck
+Tattoo of Menace
+Tattoo of Major Protection
+Tattoo of Protection
+Tattoo of Striding
+Tattoo of Warding
+Venom Ward
+Voice of Comprehension
+Wings of Ink
+Cost Size
+2,000 gp
+4,000 gp
+2,000 gp
+4,000 gp
+2,000 gp
+4,000 gp
+8,000 gp
+1,000 gp
+4,000 gp
+2,000 gp
+16,000 gp
+4,000 gp
+8,000 gp
+8,000 gp
+4,000 gp
+16,000 gp
+4,000 gp
+8,000 gp
+4,000 gp
+2,000 gp
+16,000 gp
+8,000 gp
+8,000 gp
+8,000 gp
+4,000 gp
+2,000 gp
+8,000 gp
+8,000 gp
+4,000 gp
+2,000 gp
+8,000 gp
+2,000 gp
+2,000 gp
+100 gp
+16,000 gp
+4,000 gp
+8,000 gp
+4,000 gp
+4,000 gp
+8,000 gp
+4,000 gp
+4,000 gp
+8,000 gp
+2,000 gp
+2,000 gp
+16,000 gp Small
+Small
+Small
+Small
+Small
+Medium
+Large
+Small
+Medium
+Medium
+Large
+Medium
+Medium
+Medium
+Medium
+Large
+Medium
+Medium
+Large
+Medium
+Large
+Medium
+Medium
+Medium
+Small
+Medium
+Medium
+Large
+Small
+Small
+Medium
+Small
+Medium
+Small
+Large
+Medium
+Medium
+Small
+Small
+Large
+Large
+Medium
+Large
+Small
+Small
+Large
+Complexity
+Average
+Ornate
+Average
+Ornate
+Average
+Average
+Average
+Simple
+Average
+Simple
+Ornate
+Average
+Ornate
+Ornate
+Average
+Ornate
+Average
+Ornate
+Simple
+Simple
+Ornate
+Ornate
+Ornate
+Ornate
+Ornate
+Simple
+Ornate
+Average
+Ornate
+Average
+Ornate
+Simple
+Simple
+Simple
+Ornate
+Average
+Ornate
+Ornate
+Ornate
+Average
+Simple
+Average
+Average
+Average
+Average
+Ornate
+Rural
+Locale
+Urban
+Locale Premium
+Locale
+X X
+X
+X
+X
+X
+X
+X
+X
+Special
+Locale
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X X
+X
+X X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+General Notes
+•
+A partial list of elemental aligned inks: Fire, Ice, Water, Air, Electricity, Acid, Forest & Poison. Wizards
+are developing inks all over the planet. Some have yet to be perfected, some are regional.
+•
+Note on Forest aligned elemental ink: This ink is normally used in the Mark of the Dryad & Spider, or
+Pack masters & Snake charmer’s Mark. Mark of the Flock can use Air or Forest.
+•
+Tattoos denoted as having a special locale are performed only by those who specialize in that form.
+(Ex. Tattoo of the Frozen Fist would only be available in select monasteries in frozen regions.)
+Created by Reddit user /u/jrobharing, edited & added to by Reddit user /u/Inalisk. Additional content created by /u/Shinotama.
