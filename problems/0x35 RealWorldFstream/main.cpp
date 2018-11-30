@@ -59,7 +59,7 @@ int main() {
     getline(myInput, lineFromFile[3]);
     getline(myInput, lineFromFile[4]);
     // sometimes it has an extra attribute: piercing slashing bludgeoning ac
-    if (lineFromFile[4] == "Piercing" || lineFromFile[4] == "Slashing" || lineFromFile[4] == "Bludgeoning" || (lineFromFile[4][0] == 'A' && lineFromFile[4][1] == 'A')) {
+    if (lineFromFile[4] == "Piercing" || lineFromFile[4] == "Slashing" || lineFromFile[4] == "Bludgeoning" || (lineFromFile[4][0] == 'A' && lineFromFile[4][1] == 'C')) {
       getline(myInput, lineFromFile[5]);
       inputCounter += 6;
       myOutput << "$stock[] = new array ('name'=>'" << lineFromFile[0] << "','type'=>'" << lineFromFile[1] << "','cost'=>'" << lineFromFile[2] << "','weight'=>'" << lineFromFile[3] << "','description'=>'" << lineFromFile[4] << "','notes'=>'" << lineFromFile[5] << "');" << endl;
@@ -70,7 +70,7 @@ int main() {
     }
 
     //$stock[] = new array ('name'=>,'type'=>, 'price'=> ,'weigth'=>, 'category'=> );
-    myOutput << "$stock[] = new array ('name'=>'" << lineFromFile[0] << "','type'=>,'" << lineFromFile[1] << "','cost'=>,'" << lineFromFile[2] << "','weight'=>,'" << lineFromFile[3] << "','notes'=>,'" << lineFromFile[4] << "');" << endl;
+      //myOutput << "$stock[] = new array ('name'=>'" << lineFromFile[0] << "','type'=>,'" << lineFromFile[1] << "','cost'=>,'" << lineFromFile[2] << "','weight'=>,'" << lineFromFile[3] << "','notes'=>,'" << lineFromFile[4] << "');" << endl;
     outputCounter++;
 
     prevprogress = progress;
