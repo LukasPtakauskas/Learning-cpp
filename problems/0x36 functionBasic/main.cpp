@@ -13,5 +13,6 @@ int main ()
 {
   int z;
   z = addition (5,3);
-  cout << "The result is " << z;
+  cout << "5 + 3 = " << z;
+  return 0;
 }
