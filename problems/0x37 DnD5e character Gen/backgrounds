@@ -1,28 +1,10 @@
-Acolyte
-Charlatan
-Criminal
-Entertainer
-Folk Hero
-Guild Artisan
-Hermit
-Knight
-Noble
-Outlander
-Sage
-Sailor
-Soldier
-Urchin
-Anthropologist
-Archeologist
-City Watch
-Investigator
-Clan Crafter
-Courtier
-Faction Agent
-Far Traveler
-Gladiator
-House Agent
-Inheritor
-Engineer
-Scientist
-Bounty Hunter
+mysql> select * from backgrounds;
++----+-----------------+------+-------------------------------------------------------------------------------------------------------+-------+-----------+-------------------------+
+| id
+| background_name
+| gold
+| equipment
+| tools
+| languages
+| skills
++----+-----------------+------+-------------------------------------------------------------------------------------------------------+-------+-----------+-------------------------+
